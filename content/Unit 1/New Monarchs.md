@@ -1,0 +1,2 @@
+- rulers who held greater control over their country, increasing centralized power
+- organized tax collection, millitary power, justice systems, and religion

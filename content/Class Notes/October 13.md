@@ -1,0 +1,34 @@
+- [[Philip II|Phillip II]] (r.1556-1598)
+	- Had a lots of land and gold in the New World
+	- Issues:
+		- Inflation due to excess silver imports
+		- Spanish Armada destroyed by the English
+		- Netherlands revolt
+	- Spain declined upon his death, overall bad ruler
+
+- [[Elizabeth I|Elizabeth I]] (r.1558-1603)
+	- replaced [[Mary I]], daughter of [[Henry III]]
+	- was a [[Politique]]
+
+- [[Witchcraft]]
+	- craze appeared in 16th to 17th century
+	- increased violence + hostile behavior peaked 1580-1650
+	- people felt it was voluntary
+	- explained plagues, famines, calamity, economic hardships; overall scapegoating
+	- involved pact with the Devil
+	- felt individuals were trying to undermine Christianity
+	- lynchings and trials were a form of entertainment
+	- around 100k+ overall victims
+	- targetted the elderly and women, as they were seen as weak to temptation
+	- cats were incarnations of the devil
+	- 17th C definition of witchcraft: `"Sworn allegiance to Satan by dancing, feasting or copulating with him"`
+	- Witch trails had high conviction rates
+	- [[Malleus Maleficarum (1485)]]
+		- commissioned by Catholic Church
+		- written in Latin by Heinrich Kramer & Jakob Sprenger, Inquisitors
+		- one of the 1st mass-produced books, 20 editions
+		- also published by Inquisition
+		- results:
+			- increased European fear, paronoia, calamity
+			- `"...women are by nature instruments of Satan. They are by nature carnal, a structural defect rooted in the original creation"`
+	- over time "craze" ended

@@ -1,0 +1,2 @@
+- 1478-1529
+- wrote *The Book of the Courtier* (1528), outline for proper behavior for courtier

@@ -1,0 +1,2 @@
+- 1627-1704
+- French divine right theorist

@@ -1,0 +1,1 @@
+- the ability to rule, who has control over the country

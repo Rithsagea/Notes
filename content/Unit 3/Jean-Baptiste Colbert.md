@@ -1,0 +1,2 @@
+- r. 1661-1683
+- in charge of [[Louis XIV]]'s finances, dealt with excess royal spending

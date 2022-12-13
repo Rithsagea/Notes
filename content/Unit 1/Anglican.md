@@ -1,0 +1,3 @@
+- split between
+	- "High Church" -> individuals who wanted to keep [[Catholicism|Catholic]] doctrine
+	- "Low Church" -> individuals who were influenced by [[Protestant]] teachings

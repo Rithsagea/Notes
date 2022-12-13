@@ -1,0 +1,5 @@
+- reigned 1643-1715
+- spent childhood experiencing [[The Fronde]]
+	- always in hiding / running away from nobles
+	- psychological impact: led to his later dislike of nobles
+- called "Le Roi Soleil" during eulogy

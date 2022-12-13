@@ -1,0 +1,10 @@
+- r. 1509
+- king of England
+- Katherine of Aragon
+	- had 6 children, but only [[Mary Tudor]] survived past birth
+	- wanted to annul marriage with her, since no male heir
+	- [[Pope Clement VII]] refused, since Katherine was [[Charles V]] nephew
+- Anne Boleyn became pregnant, prompting divorce and marriage
+- pope declared marriage illegal, resulting the passage of the [[Act of Supremacy]]
+- beheads Anne Boleyn for adultery later, and marries Jane Seymour, having the child [[Edward I]]
+- marries 3 more wives after Seymour's death from childbirth, but no more children

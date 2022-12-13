@@ -1,0 +1,4 @@
+- 1606-1669
+- Rembrandt van Rijn
+- [[Baroque]] artist, focused on effects of light
+- painted *The Night Watch*

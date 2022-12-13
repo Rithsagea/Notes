@@ -1,0 +1,4 @@
+- 1377-1466
+- commissioned by [[Cosimo de' Medici]] to rebuild the Church of San Lorenzo
+	- used a dome, remeniscent of classical architecture
+	- engineering feat, surpassing that of ancient Rome's

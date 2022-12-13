@@ -1,0 +1,1 @@
+- passive individuals under the crown

@@ -1,0 +1,1 @@
+power is passed down through the first born male child

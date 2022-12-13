@@ -1,0 +1,5 @@
+- 1483 - 1540
+- friend and neighbor of [[Niccolò Machiavelli]]
+- wrote of politics and government
+- also a cynic of human nature
+	- `"There is nothing so fleeting as the memory of benefits received"`

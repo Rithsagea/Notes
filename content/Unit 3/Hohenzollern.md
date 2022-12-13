@@ -1,0 +1,5 @@
+- inherited lands in 1609 in the Rhine valley
+- recieved duchy of Prussia 9 years later
+- holdings collectively named `Bradenburg-Prussia`
+	- 3 disconnected German land masses
+	- seperate cultures and rulers

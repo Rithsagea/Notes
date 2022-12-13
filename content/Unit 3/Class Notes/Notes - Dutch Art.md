@@ -1,0 +1,18 @@
+# 17th Century Art
+- "The Dutch Golden Age", Review Book p92, 234
+- [[Dutch Baroque]]
+	- merchants were very rich
+	- comissioned a lot of art (not the church)
+	- oil paintings
+	- themes
+		- moral standards or adages
+		- domestic setting / wealthy households (bragging)
+		- (group) portraits of merchants
+			- people pooled their money together to hire famous artists
+			- guilds, skilled workers, musicians
+		- "still life" paintings
+	- artists
+		- [[Frans Hals]] :: portrait painter
+		- [[Jan Steen]] :: painted moral standards + adages(p92)
+		- [[Rembrandt]]
+		- [[Johannes Vermeer]]

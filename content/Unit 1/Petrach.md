@@ -1,0 +1,6 @@
+- 1304-1374
+- often called Father of [[Humanism]]
+- studied forgotton **Latin** manuscripts, works of Cicero
+- wrote in Italian **vernacular**
+- developed **philological** text analysis
+	- **Lorenzo Valla** proved the *Donation of Constantine* was forged, wrong language style

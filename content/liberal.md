@@ -1,0 +1,2 @@
+- against monarchy, more democracy
+- economic :: capitalism

@@ -1,0 +1,4 @@
+- 1452-1519
+- studied nature, did experiments, disected bodies
+- drafted many modern machine schematics
+- painted *Mona Lisa* and *The Last Supper* ([[Fresco|fresco]])

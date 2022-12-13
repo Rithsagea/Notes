@@ -1,0 +1,5 @@
+- English [[Christian Humanists|Christian humanist]]
+- studied at Oxford, Parliament member and advisor to [[Henry VIII]]
+- wrote *Utopia*
+	- described imaginary, perfect land
+	- calling for equality, women's education, and abolition of private property

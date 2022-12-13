@@ -1,0 +1,12 @@
+## Topics
+- [[Topic 1.1 - Contextualizing Renaissance and Discovery]]
+- [[Topic 1.2 - Italian Renaissance]]
+- [[Topic 1.3 - Northern Renaissance]]
+- [[Topic 1.4 - Printing]]
+- [[Topic 1.5 - New Monarchies]]
+- [[Topic 1.6 - Technological advances and the Age of Exploration]]
+- [[Topic 1.7 - Rivals on the World Stage]]
+- [[Topic 1.8 - Colonial Expansion and Columbian Exchange]]
+- [[Topic 1.9 - The Slave Trade]]
+- [[Topic 1.10 - The Commercial Revolution]]
+- [[Topic 1.11 - Causation in the Renaissance and Age of Discovery]]

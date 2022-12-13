@@ -1,0 +1,3 @@
+- 1386-1466
+- [[Italian Renaissance]] artist, sculpted in marble and bronze
+- worked on distinct, detailed marble panels, rather than full 3d
