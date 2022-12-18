@@ -1,5 +1,7 @@
 ---
 title: "James II"
+tags:
+- ruler
 ---
 - r. 1685-1688
 - infuriated Parliament by replacing all Protestants with Catholics in his court

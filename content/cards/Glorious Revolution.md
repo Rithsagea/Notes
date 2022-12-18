@@ -1,5 +1,7 @@
 ---
 title: "Glorious Revolution"
+tags:
+- event
 ---
 ## Invasion
 - Parliament contacts [[William III]] of Orange to invade and dispose of [[cards/James II]]

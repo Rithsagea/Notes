@@ -1,5 +1,7 @@
 ---
 title: "Charles II"
+tags:
+- ruler
 ---
 - respected Parliament, was `decent & amiable`
 - tumultuous rule:

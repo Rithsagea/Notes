@@ -1,5 +1,7 @@
 ---
 title: "James I"
+tags:
+- ruler
 ---
 - was originally James VI of Scotland, before becoming king of England in 1603
 - promoted divine right rule, attempted and failed to instate [[cards/Absolutism]]

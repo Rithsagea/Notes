@@ -1,5 +1,7 @@
 ---
 title: "The Restoration"
+tags:
+- event
 ---
 - Parliament brings back the [[Stuart]] monarchy through [[cards/Charles II]]
 - after his death, his younger brother, [[cards/James II]] takes over

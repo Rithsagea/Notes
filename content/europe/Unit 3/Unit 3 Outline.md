@@ -3,7 +3,7 @@ title: "Unit 3 Outline"
 tags:
 - outline
 ---
-## Ideas
+## Outline
 - transition to secular government
 - struggle between centralized and decentralized control
 - agricultural advances

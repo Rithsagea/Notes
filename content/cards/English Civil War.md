@@ -1,5 +1,7 @@
 ---
-title: "English Civil War 1642-1651)"
+title: "English Civil War (1642-1651)"
+tags:
+- event
 ---
 ## Preface
 - [[Elizabeth I]] dies, closest relative, James IV of the Stuarts becomes [[cards/James I]]

@@ -1,5 +1,7 @@
 ---
 title: "Charles I"
+tags:
+- ruler
 ---
 - the son of [[cards/James I]]
 - was far more controversial than his father
