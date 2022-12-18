@@ -1,3 +1,0 @@
-- 1508-1580
-- author and sculptor
-- designed palaces, used Hellenistic style, with modern techniques and materials

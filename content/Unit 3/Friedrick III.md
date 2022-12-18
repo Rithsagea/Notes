@@ -1,5 +1,0 @@
-- son of [[Friedrick William the Great Elector]]
-- focused more on cultural, rather than militaristic spendings
-- aided HRE in War of Spanish Succession
-	- name changed to King Friedrick I
-	- `Brandenburg-Prussia` renamed to `Prussia`

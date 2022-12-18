@@ -1,4 +1,0 @@
-- 1471-1528
-- German meister, studied in Italy for a while
-- exchanged artwork with [[Raphael]]
-- created prints with woodcuts

@@ -1,4 +1,0 @@
-- individuals agree to form a government
-- governments established for people to achieve goal
-- social contract theorists: [[Thomas Hobbes]], [[John Locke]], [[Jean-Racques Rousseau]]
-- hypothesized existence of state of nature prior to government

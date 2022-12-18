@@ -1,6 +1,0 @@
-- 1658-1705
-- Austrian ruler of [[Hapsburg]] dynasty
-- tried to expand Eastward, but met ire of Turks
-	- Turks sieged Vienna in 1683
-	- Austrians, Saxons, Bavarians, and Poles desperately pushed them off
-- Treaty of Karlowitz (1699) :: Austria got Hungary, Transylvania, Croatia, and Slovenia, forming Austrian empire

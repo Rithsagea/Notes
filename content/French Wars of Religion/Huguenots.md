@@ -1,4 +1,0 @@
-- French [[Calvinism|Calvanists]]. Converted in order to dampen power of [[Catholicism|Catholics]]
-- Propogated all levels of society, including merchants + artisans and over half of the nobility -> was a political threat
-- Only made up 7% of population
-- 

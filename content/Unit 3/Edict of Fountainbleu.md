@@ -1,2 +1,0 @@
-- 1685 French law passed by [[Louis XIV]]
-- revoked the [[Edict of Nantes]]

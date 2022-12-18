@@ -1,2 +1,0 @@
-- German nobleman
-- Had title of: `The Elector`

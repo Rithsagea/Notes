@@ -1,3 +1,0 @@
-- [[Stuart]] reigned 1603-1625
-- previously James VI of Scotland
-- Jamestown was named after him

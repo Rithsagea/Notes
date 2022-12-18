@@ -1,5 +1,0 @@
-- 1463-1494
-- worked towards mixing different philosophical viewpoints
-- studied many philosphies and languages (Greek, Hebrew, Arabic)
-- "Oration on the Dignity of Man"
-	- [[Humanism|Humanist]] work combining ideas from different schools of thought, describing relation of humans to God

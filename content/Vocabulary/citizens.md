@@ -1,1 +1,0 @@
-- participating members of society

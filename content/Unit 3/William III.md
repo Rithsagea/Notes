@@ -1,2 +1,0 @@
-- 1672-1702
-- Dutch, House of Orange

@@ -1,3 +1,0 @@
-- 1390-1441
-- talented oil painter
-- often signed his paintings with "As best as I can."

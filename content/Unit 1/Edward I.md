@@ -1,3 +1,0 @@
-- r. 1547-1533
-- son of [[Henry VIII]] and [[Jane Seymour]]
-- directed government towards a Low Church

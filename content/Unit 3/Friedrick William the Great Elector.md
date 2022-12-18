@@ -1,9 +1,0 @@
-- reigned 1640-1688
-- built strong standing army
-- supported with **General War Commissariat** for taxation
-- beaurocratic system
-	- nobles gave up government power for increased control over peasants
-	- relied on mercantilism and various other economic techniques to construct infrastructure
-- edict inviting [[Huguenots]] to seek shelter in Prussia, 20k came
-- developed the base Prussian state
-- succeeded by his son [[Friedrick III]]

@@ -1,7 +1,0 @@
-- 1588-1648
-- Danish ruler, very strict on peasants
-- Wars weakened power
-	- [[The Thirty Years' War]]
-	- Northern War :: fought with Sweden
-- Losses led to a revolt, and [[Christian V]] being ruler
-	- centralized administration, nobility held office

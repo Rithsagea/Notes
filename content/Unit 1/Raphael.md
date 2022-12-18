@@ -1,2 +1,0 @@
-- 1483-1520
-- painted the *School of Athens*, along with other frescoes in the Vatican

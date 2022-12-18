@@ -1,2 +1,0 @@
-- 1445-1520
-- painted *Primavera (Spring)*, depicted Venus, Cupid, Flora, and Mercury

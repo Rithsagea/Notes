@@ -1,1 +1,0 @@
-- comissioned by Dutch merchants **not the church**

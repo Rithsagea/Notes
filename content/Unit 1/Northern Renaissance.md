@@ -1,3 +1,0 @@
-- spread of [[Italian Renaissance]] [[Humanism|humanism]] to regions north of the Alps
-- artwork greater focus on everyday life on smaller canvases
-- focused more on Christian ideas, often fitting Renaissance ideas to conform with church

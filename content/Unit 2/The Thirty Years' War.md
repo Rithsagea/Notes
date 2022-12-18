@@ -1,3 +1,0 @@
-- a political war justified with religious purpose
-- series of civil wars caused by ulterior motives
-- 

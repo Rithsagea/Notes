@@ -1,4 +1,0 @@
-- Dutch Scholar
-- encouraged literates to read Bible themselves
-- wrote *Praise of Folly*, criticizing church practices
-- called for reform, but did not want to split the Church

@@ -1,2 +1,0 @@
-- 1534
-- declared the king of England head of the Church of England

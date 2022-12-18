@@ -1,3 +1,0 @@
-- r. 1721-1742
-- first prime minister of Britain
-- 

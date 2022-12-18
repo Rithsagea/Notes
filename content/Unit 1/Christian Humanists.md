@@ -1,2 +1,0 @@
-- [[Northern Renaissance]] humanists who wanted religious reform
-- motto "*Ad fontes*" ("back to the source")

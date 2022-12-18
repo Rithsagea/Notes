@@ -1,4 +1,0 @@
-- 1475-1564
-- Italian sculptor, paitner, architect, and poet
-- created the marble sculpture *David*
-- painted the ceiling of the Sisten Chapel in the Vatican

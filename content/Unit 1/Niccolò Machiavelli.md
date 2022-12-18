@@ -1,7 +1,0 @@
-- 1469-1527
-- a Florentine diplomat, familiar with French and German politics
-- exiled after supporting a republic
-- wrote *The Prince* (1513), examining ruling strategies
-	- deviate from morality in favor of ruling, maintain power
-	- leaders needed to lie and bribe, while keeping appearances
-	- `"the ends justify the means"`

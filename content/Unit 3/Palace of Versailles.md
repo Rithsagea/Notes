@@ -1,2 +1,0 @@
-- Hall of Mirrors (where [[Treaty of Versaille]] was signed)
-- [[Bernini]] created [[Louis XIV]]'s bust 1665
