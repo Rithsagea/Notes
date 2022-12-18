@@ -1,3 +1,8 @@
+---
+title: "Notes - Austria"
+tags:
+- notes
+---
 ## Maria Theresa
 - [[Maria Theresa]] :: r. 1740-1780
 	- did not have physical / developmental problems from inbreeding

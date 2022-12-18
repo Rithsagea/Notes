@@ -1,5 +1,10 @@
-# Friedrich the Great
-## Enlightened Behavior
+---
+title: "Notes - Enlightened Rulers"
+tags:
+- notes
+---
+## Friedrich the Great
+### Enlightened Behavior
 - [[Friedrich der Große]] :: r.1740-1786
 	- Prussian ruler (long existance)
 	- 1 of 2 dominant states within the [[Holy Roman Empire]]
@@ -21,7 +26,7 @@
 		10. More arable land cultivated
 			- New stable crops, vs rye + wheat; better for soil; turnips + potatos
 		11. Life more palatable for masses
-## Less than Enlightened Behavior
+### Less than Enlightened Behavior
 - [[Friedrich der Große]]
 	1. Did not emancipate serfs, hands were tied by situation
 		- vast majority of the population

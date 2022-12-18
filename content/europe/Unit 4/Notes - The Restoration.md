@@ -1,3 +1,8 @@
+---
+title: "Notes - The Restoration"
+tags:
+- notes
+---
 # The Restoration
 - "Restoration" of monarchs across Europe
 - Even though Napoleon defeated by 1815, *can't erase collective memories!*

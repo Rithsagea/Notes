@@ -1,3 +1,8 @@
+---
+title: "Notes - French"
+tags:
+- notes
+---
 # Foundations of French Absolutism
 - [[Henry IV]] is killed in 1610, regicide for promoting religious tolerance by Catholics
 - [[Marie de Medici]] (wife) and [[Louis XIII]] (9 years old)
@@ -19,7 +24,7 @@
 - [[Louis XIII]] died in 1643
 - both from tuberculosis
 - political vacuum
-- [[Louis XIV]], his son, took over at age 5, ruled for 72 years r.1643-1715
+- [[cards/Louis XIV]], his son, took over at age 5, ruled for 72 years r.1643-1715
 	- longest ruler in AP Euro
 - 1642-1661, had an advisor, protege of Richelieu, [[Cardinal Mazarin]]
 	- tried to continue Richelieu's policies
@@ -37,11 +42,11 @@
 		2. *Carpe diem* mentality for nobles
 		3. "Mazarin was no Richelieu"
 	- Government prevailed after 4 years, however
-		1. [[Louis XIV]] childhood was very traumatic
+		1. [[cards/Louis XIV]] childhood was very traumatic
 			- earliest memories of people trying to kill him, fleeing at night
 			- sought vengeance against the nobility
 # "Le Roi Soleil"
-- [[Louis XIV]]
+- [[cards/Louis XIV]]
 	- Sought to decimate nobles
 	- [[Palace of Versailles]]
 		- enlarged non-stop throughout his reign
@@ -56,7 +61,7 @@
 		3. Huge standing armies!
 	- `"L'état, C'est Moi"
 # Louis XIV & Absolutism
-- [[Louis XIV]]
+- [[cards/Louis XIV]]
 	- `"One king, one law, one faith."` 
 	- [[Edict of Fountainbleu]] (1685)
 		- revoked [[Edict of Nantes]]

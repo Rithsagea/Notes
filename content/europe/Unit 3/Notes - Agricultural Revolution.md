@@ -1,3 +1,8 @@
+---
+title: "Notes - Agricultural Revolution"
+tags:
+- notes
+---
 # The 2nd Agricultural Revolution
 - [[2nd Agricultural Revolution]]
 	- prerequisite for the Industrial Revolution

@@ -1,4 +1,9 @@
-# Catherine the Great
+---
+title: "Notes - Catherine the Great"
+tags:
+- notes
+---
+## Catherine the Great
 - [[Catherine the Great]] :: r. 1762-1796
 	- Not even Russian (the name Sophie became Ekaterina)
 	- Born in Stettin on the Baltic (Prussia)

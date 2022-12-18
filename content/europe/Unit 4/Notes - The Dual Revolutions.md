@@ -1,3 +1,8 @@
+---
+title: "Notes - The Dual Revolutions"
+tags:
+- notes
+---
 - [[The French Revolution]] :: 1789-1815
 - [[The Industrial Revolution]] :: c. 1780s?-1914?
 	- 1st IR :: c. 1780s-1870s

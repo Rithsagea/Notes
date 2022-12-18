@@ -1,3 +1,8 @@
+---
+title: "Notes - Absolutism"
+tags:
+- notes
+---
 # Principles of Absolutism
 - [[Absolutism]]
 	- monarchs: [[Peter the Great]], [[Charles I]], [[Louis XIV]]

@@ -1,3 +1,8 @@
+---
+title: "Notes - Enlightened Absolutism"
+tags:
+- notes
+---
 - [[Enlightened Despotism]]
 	- rulers that voluntarily embraced ideals of Enlightenment
 	- **in theory** promoted reform based on Enlightenment ideals

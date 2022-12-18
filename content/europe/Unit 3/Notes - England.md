@@ -88,7 +88,7 @@ tags:
 		- Parliament contacts Mary, ruling Netherlands with her husband [[William III]]
 		- landed an Dutch army at Torbay, UK
 		- James had no supporters, fled to France with "infant son"
-		- protection of his cousin [[Louis XIV]]
+		- protection of his cousin [[cards/Louis XIV]]
 ```mermaid
 graph TD;
 A[James I]-->B[Charles I];
