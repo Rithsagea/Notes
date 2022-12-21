@@ -1,9 +1,15 @@
 ---
-title: "12 20 2022"
+title: "Industrialization"
 tags:
 - notes
 - class
 ---
+
+--- 
+12 20 2022
+
+---
+
 ## Pre-Industrial Manufacturing
 - "The cottage industry", aka "the putting out system"
 - **visual of cart moving across, and cotton manufactured to cloth**
@@ -49,3 +55,22 @@ tags:
 - e.g. Wire -> Cut Wire -> Sharpen End -> Stamp Head -> Solder Head -> Pins
 - Specialization = increased efficiency
 - History has modern impact!
+--- 
+12 21 2022
+
+---
+## Child Labor
+- kids didn't have the luxury of public schools
+- viewed, dressed & treated like small adults. They didn't have "childhoods"or swing sets
+- compelled to contribute to their family ("pull their weight")... Not just a burden
+- Living in cities was expensive (ironically they lived in extreme poverty)
+- children were more compliant than adults; if not they were beaten by capitalists!
+- if late, unproductive, or sleepy, beaten (no one cared)
+- if maimed by machines & couldn't work, fired & replaced by another child worker
+- they were small... could climb under machines / looms or in coal mines
+- they would accept 1/3 of the wage of a working man... (woman paid 1/2)
+- most started working at age 5... **luckily**, most died by 25
+## The Communication Revolution
+- Telegraph
+- Samuel Morse, Morse Code
+- Transatlantic Telegraph Cable
