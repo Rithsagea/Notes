@@ -74,3 +74,31 @@ tags:
 - Telegraph
 - Samuel Morse, Morse Code
 - Transatlantic Telegraph Cable
+---
+1 2 2023
+
+---
+## Transportation Revolution
+- George Stephenson's "Rocket" (1829) 30 mph
+## Urbanization
+- movement of people from rural to urban areas; increase in city populations
+- **1785**, only 3 cities with population more than 50,000
+- **by 1850**, 31 (just in Britain)
+- **by 1900** over 100!
+- by 1850, half Brits lived in cities
+### The Midlands
+- "Industrial heart" of Britain
+- Manchester, Leeds & Birmingham!!!
+- Birth place of heavy metal! Heavy metal museum! field trip??
+### After 1815
+- Dissemination of industrialization to "Continental Europe"
+- Factors that delayed industrialization? [[Napoleonic Wars]]
+- Belgium, the Ruhr Valley, Dresden, Prague etc.
+### 2nd Industrial Revolution
+- c. 1850-1914
+- Increased Automation
+- Steel (Bessemer Process)
+- Petroleum & Electricity
+- Internal Combustion
+- Automobiles, Chemicals, Railroads, Telegraph, Telephone, Radio
+- Still Bad, but improving (sewers, sanitation etc.) Expansion of Middle Class
