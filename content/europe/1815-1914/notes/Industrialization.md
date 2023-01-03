@@ -102,3 +102,35 @@ tags:
 - Internal Combustion
 - Automobiles, Chemicals, Railroads, Telegraph, Telephone, Radio
 - Still Bad, but improving (sewers, sanitation etc.) Expansion of Middle Class
+---
+1 3 2023
+
+---
+- Germany started to challenge Great Britain!
+- Krupp based in Essen, Germany
+- mass production of steel & therefore growth of German RRs!
+- subsidized by the German government
+- **1862** 1st Bessemer furnace in Continental Europe!
+- aided by German states agreeing to eliminate tariffs amongst themselves to compete with GB
+- The Zollverein Agreement (1834) **p290 AMSCO**
+- major difference was steel as a new building material, mass produced steel in blast furnace (1856)
+> - Steel Production
+> 	- steel rails, larger structures, heavy machinery
+> 	- Bessemer process resulted in high-quality steel
+> - Oil
+> 	- kersoene for lighting; internal combustion engine for factory machines
+> - Electricity
+> 	- increasingly powered cities
+> 	- England built first electric power stations in 1881
+> 	- Steel, textile, shoemaking and construction industries increasingly used electricity
+> - Chemicals
+> 	- Germany led in photo processing and other areas such as dyes, soaps and pharmaceuticals; also fertilizers and explosives
+### "The Crystal Palace" of 1851
+- GB "flexed" in 1851 to show technological & economic dominance
+- hosted a Europe-wide "world fair" exhibiting "state of the art" technology!
+### Effects
+1. Pollution
+2. Environmental Degradation
+3. Epidemics
+4. Overcrowding
+5. Lack of sanitation
