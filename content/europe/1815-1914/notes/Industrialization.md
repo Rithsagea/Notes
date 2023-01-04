@@ -94,7 +94,7 @@ tags:
 - Dissemination of industrialization to "Continental Europe"
 - Factors that delayed industrialization? [[Napoleonic Wars]]
 - Belgium, the Ruhr Valley, Dresden, Prague etc.
-### 2nd Industrial Revolution
+## 2nd Industrial Revolution
 - c. 1850-1914
 - Increased Automation
 - Steel (Bessemer Process)
@@ -134,3 +134,37 @@ tags:
 3. Epidemics
 4. Overcrowding
 5. Lack of sanitation
+---
+1 4 2023
+
+---
+### The Luddites
+- (Reaction to the Industrialization)
+- skilled weavers broke into factories & destroyed machinery
+- justifications
+	- technology & factory system *threats* to their livelihood & prosperity
+	- unskilled workers taking jobs!
+	- Ziccardi is "card-carrying" modern Luddite since technology has a negative impact on Americn society
+### Social Effect = "Polarization of Society"
+- gaps between the rich and poor
+- the "haves" :: bourgeois life thrived on the luxuries of the industrial revolution
+- the "have-nots" :: the poor, the over-worked, and the destitute
+- "the gap" widened between the rich & the poor
+### "The Polarization of Society" (p. 334)
+- polarization, unprecedented wealth
+- unprecedented exploitation
+- "the gap" widened
+	- the rich (minority) got wealthier
+	- the poor (majority) exploited
+- solutions developed
+	- Marxism isn't Communism!
+	- [[Karl Marx]] :: contemporary social critic
+	- along with Friedrich Engells
+	- *Conditions of the Working Class*
+	- "Industrial Revolution = BAD!"
+	- culmination of exploitation of common people in history
+	- Proletariat working class vs the bourgeoisie owners of the means of production
+	- advocated workers' revolution against the bourgeoisie!
+	- classless society = future!
+	- this never happens in world history
+	- his theory in the book
