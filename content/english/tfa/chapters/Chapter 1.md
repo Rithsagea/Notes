@@ -1,0 +1,18 @@
+---
+title: "Chapter 1"
+---
+- [[english/tfa/terms/Okwonko]]
+	- known for wrestling and throwing [[Amalinze the Cat]]
+	- 20 years have passed since
+	- features :: `busy eyebrows and wide nose`, children and wives could hear his loud snoring; poor with words, short patience, and used violence
+	- no respect for his father [[english/tfa/terms/Unoka]]
+	- notoriety for strength, fairly affluent
+- [[english/tfa/terms/Unoka]]
+	- died 10 years ago
+	- quite poor, spent money on parties and wine
+	- talented musician
+	- owed his neighbor [[english/tfa/terms/Okoye]] 200 cowries
+	- died stooped in debt
+- [[english/tfa/terms/Okoye]]
+	- neighbor of [[english/tfa/terms/Unoka]]
+	- musician, had 3 wives, and Idemili title
