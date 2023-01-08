@@ -1,0 +1,16 @@
+---
+title: "Chapter 3"
+---
+- [[Oracle of the Hills and the Caves]]
+	- remain hidden in crawl-space of a cave
+	- [[Chika]] the priestess priestess declared [[english/tfa/terms/Unoka]]'s misfortune came from laziness
+- [[english/tfa/terms/Okwonko]]
+	- did not inherit a barn from his father
+	-  borrowed 800 yams from [[Nwakibie]], richest man in the village
+		- 9 wives and 30 children
+		- [[Anasi]] :: first wife of Nwakibie, `tall and strongly built`
+		- [[Igwelo]] :: eldest son, recently married his first wife
+	- massive drought and floodings ruined harvest
+- [[Obiako]] :: palm wine tapper
+	- retired, since oracle said he would die from falling off a palm tree
+	- refused to sacrifice a goat to his dead father

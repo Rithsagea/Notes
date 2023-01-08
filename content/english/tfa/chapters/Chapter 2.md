@@ -1,3 +1,14 @@
 ---
 title: "Chapter 2"
 ---
+- the town crier announces a meeting for all of Umuofia to gather the following day
+- [[english/tfa/terms/Okwonko]]
+	- used to war, brought 5 heads home already
+- the wife of Ogbuefi Udo was killed at the Mbaino market
+- Mbaino offers virgin and young man to avoid Umuofia's war prowess
+- *agadi-nwayi* old one-legged medicine woman; powerfal war medicine 
+- Umuofia only went to war if justified and allowed by [[Oracle of the Hills and the Caves]]
+- girl becomes Ogbuefi's wife, and [[Ikemefuna]] (boy) stays with [[english/tfa/terms/Okwonko]]
+- [[english/tfa/terms/Okwonko]]
+	- did not want to be like father, called *agbala*, title-less and disrespected
+	- beat his son [[Nwoye]] because he was lazy

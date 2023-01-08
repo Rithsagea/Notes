@@ -1,0 +1,13 @@
+---
+title: "Chapter 4"
+---
+- [[Ikemefuna]]
+	- taken care of by [[Nwoye]]'s mother
+	- smart; could make flutes, traps, and bows
+	- liked by [[english/tfa/terms/Okwonko]]
+	- knew many stories, culture of different clan interested his new family
+	- called corn cobs with sparse grains *eze-agadi-nwayi*, teeth of old woman, Nowye thought about [[Nwayieke]], who only had 3 teeth
+- [[Ojiugo]] :: [[english/tfa/terms/Okwonko]]'s first wife
+	- went to have her hair plaited during Week of Peace
+	- beaten by Okwonko for neglecting her duties
+	- [[Ezeani]], priest of earth god [[Ani]] fines him for this *nso-ani* (sacrilege)
