@@ -168,3 +168,28 @@ tags:
 	- classless society = future!
 	- this never happens in world history
 	- his theory in the book
+## Sources
+### Friedrich Engels
+- The Condition of the Working Class in England (1844)
+### Sadler Commission & Report (1832) *Childhood and Child Labour*
+- Parliament investigated working conditions
+- driven by very forward-looking MP (member of Parliament)!
+- Michael Sadler
+	- Revolutionary
+	- Government was *laissez-faire* & *controlled by capitalists*
+	- interviewed child laborers in coal mines and factories (about the beatings)
+- result was 1st labor legislation passed by Parliament
+- Factory Act of 1833
+## Thomas Malthus
+- *An Essay on the Principle of Population*
+- poverty was **rampant**
+- analysis in book
+	- people to blame (British economist & demographer)
+	- "The Malthusian theory"
+	- relationship between demographic variables
+	- population limited by availability food (& other variables), realistic
+- prevention
+	1. they should help themselves by limiting copulation
+	2. show self-restraint! ... promote abstinence.
+- population "naturally limited" (kept in check)
+- by "misery" ... epidemics, starvation & infanticide
