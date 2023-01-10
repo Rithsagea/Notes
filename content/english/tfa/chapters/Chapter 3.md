@@ -6,7 +6,7 @@ title: "Chapter 3"
 	- [[Chika]] the priestess priestess declared [[english/tfa/terms/Unoka]]'s misfortune came from laziness
 - [[english/tfa/terms/Okwonko]]
 	- did not inherit a barn from his father
-	-  borrowed 800 yams from [[Nwakibie]], richest man in the village
+	-  borrowed 800 yams from [[english/tfa/terms/Nwakibie]], richest man in the village
 		- 9 wives and 30 children
 		- [[Anasi]] :: first wife of Nwakibie, `tall and strongly built`
 		- [[Igwelo]] :: eldest son, recently married his first wife

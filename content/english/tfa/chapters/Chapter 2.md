@@ -8,7 +8,7 @@ title: "Chapter 2"
 - Mbaino offers virgin and young man to avoid Umuofia's war prowess
 - *agadi-nwayi* old one-legged medicine woman; powerfal war medicine 
 - Umuofia only went to war if justified and allowed by [[Oracle of the Hills and the Caves]]
-- girl becomes Ogbuefi's wife, and [[Ikemefuna]] (boy) stays with [[english/tfa/terms/Okwonko]]
+- girl becomes Ogbuefi's wife, and [[english/tfa/terms/Ikemefuna]] (boy) stays with [[english/tfa/terms/Okwonko]]
 - [[english/tfa/terms/Okwonko]]
 	- did not want to be like father, called *agbala*, title-less and disrespected
-	- beat his son [[Nwoye]] because he was lazy
+	- beat his son [[english/tfa/terms/Nwoye]] because he was lazy

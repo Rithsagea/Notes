@@ -4,14 +4,14 @@ title: "Chapter 5"
 - The Feast of the New Yam
 	- tradition to cook much yam foo-foo for celebration
 	- wives and children decorated place, and prettied themselves with makeup
-	- [[english/tfa/terms/Okwonko]] beats [[Ekwefi]] for cutting leaves off banana tree
+	- [[english/tfa/terms/Okwonko]] beats [[english/tfa/terms/Ekwefi]] for cutting leaves off banana tree
 	- he then almost shoots her with a gun after she makes a comment
-	- [[Obiageli]] breaks a pot fooling around (?)
+	- [[english/tfa/terms/Obiageli]] breaks a pot fooling around (?)
 	- [[english/tfa/terms/Okwonko]]'s family eat their meal
-- [[Ekwefi]] :: [[english/tfa/terms/Okwonko]]'s 2nd wife
-- [[Ezinma]] :: [[Ekwefi]]'s daughter
+- [[english/tfa/terms/Ekwefi]] :: [[english/tfa/terms/Okwonko]]'s 2nd wife
+- [[english/tfa/terms/Ezinma]] :: [[english/tfa/terms/Ekwefi]]'s daughter
 	- nickname of `Ezigbo`, means `the good one`
-- [[Obiageli]] :: [[Nwoye]]'s sister
+- [[english/tfa/terms/Obiageli]] :: [[english/tfa/terms/Nwoye]]'s sister
 - [[Nkechi]] :: daughter of [[english/tfa/terms/Okwonko]]'s 3rd wife
 - [[english/tfa/terms/Okwonko]]
 	- not very good with celebrations, did not enjoy idleness that came before them

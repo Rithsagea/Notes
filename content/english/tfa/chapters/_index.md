@@ -1,3 +1,3 @@
 ---
-title: "Things Fall Apart Chapters"
+title: "Things Fall Apart Pages"
 ---
