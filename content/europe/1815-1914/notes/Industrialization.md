@@ -4,12 +4,6 @@ tags:
 - notes
 - class
 ---
-
---- 
-12 20 2022
-
----
-
 ## Pre-Industrial Manufacturing
 - "The cottage industry", aka "the putting out system"
 - **visual of cart moving across, and cotton manufactured to cloth**
@@ -55,10 +49,6 @@ tags:
 - e.g. Wire -> Cut Wire -> Sharpen End -> Stamp Head -> Solder Head -> Pins
 - Specialization = increased efficiency
 - History has modern impact!
---- 
-12 21 2022
-
----
 ## Child Labor
 - kids didn't have the luxury of public schools
 - viewed, dressed & treated like small adults. They didn't have "childhoods"or swing sets
@@ -74,10 +64,6 @@ tags:
 - Telegraph
 - Samuel Morse, Morse Code
 - Transatlantic Telegraph Cable
----
-1 2 2023
-
----
 ## Transportation Revolution
 - George Stephenson's "Rocket" (1829) 30 mph
 ## Urbanization
@@ -102,10 +88,6 @@ tags:
 - Internal Combustion
 - Automobiles, Chemicals, Railroads, Telegraph, Telephone, Radio
 - Still Bad, but improving (sewers, sanitation etc.) Expansion of Middle Class
----
-1 3 2023
-
----
 - Germany started to challenge Great Britain!
 - Krupp based in Essen, Germany
 - mass production of steel & therefore growth of German RRs!
@@ -134,10 +116,6 @@ tags:
 3. Epidemics
 4. Overcrowding
 5. Lack of sanitation
----
-1 4 2023
-
----
 ### The Luddites
 - (Reaction to the Industrialization)
 - skilled weavers broke into factories & destroyed machinery
@@ -180,7 +158,7 @@ tags:
 	- interviewed child laborers in coal mines and factories (about the beatings)
 - result was 1st labor legislation passed by Parliament
 - Factory Act of 1833
-## Thomas Malthus
+### Thomas Malthus
 - *An Essay on the Principle of Population*
 - poverty was **rampant**
 - analysis in book
@@ -193,3 +171,7 @@ tags:
 	2. show self-restraint! ... promote abstinence.
 - population "naturally limited" (kept in check)
 - by "misery" ... epidemics, starvation & infanticide
+### Important People
+- Louis Pasteur :: theorized that microbes caused disease and killing them could prevent illness
+- Joseph Lister :: theorized that microbes caused infection; one of the frist surgeons to disinfict instruments
+- Robert Koch :: began linking certain pathogens to certain illnesses; example: botulinum causes food poisoning
