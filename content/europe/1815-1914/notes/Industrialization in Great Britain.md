@@ -1,11 +1,11 @@
 ---
-title: "Effects of Industrialization"
+title: "Industrialization in Great Britain"
 tags:
 - notes
 - tbv
 ---
 # TBV 1 6
-Source: AMSCO. p 582-590
+Source: Spielvogel p 582-590
 ## Economy
 - government policies supported trade
 - strong banking and paper notes system
