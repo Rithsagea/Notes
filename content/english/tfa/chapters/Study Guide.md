@@ -3,9 +3,9 @@ title: "Study Guide"
 ---
 [[english/tfa/terms|Terms]]
 ## Okwonko's Family
-- [[english/tfa/terms/Okwonko]] :: Main Character
+- *[[english/tfa/terms/Okwonko]] :: Main Character* [elaboration needed]
 - [[english/tfa/terms/Unoka]] :: Okonkwo's father 
-- *[[english/tfa/terms/Ikemefuna]] :: the captive boy*
+- *[[english/tfa/terms/Ikemefuna]] :: the captive boy* [citation needed]
 ---
 - **[[english/tfa/terms/Nwoye]] :: Okwonko's son by Ojiugo (renamed Isaac)**
 - **[[english/tfa/terms/Ekwefi]] :: Okownko's 2nd wife, Ezinma's mother**
