@@ -44,3 +44,5 @@ tags:
 - Charles overthrown
 - memorialized in literature!
 - *Les Miserables* (1862) by Victor Hugo
+## Art Pieces
+- Eugene Delacroix, Romanticism *Liberty Leadinng the People (1830)*; located in Paris, Louevre
