@@ -6,8 +6,8 @@ title: "Study Guide"
 - *[[english/tfa/terms/Okwonko]] :: Main Character* [elaboration needed]
 - [[english/tfa/terms/Unoka]] :: Okonkwo's father 
 - *[[english/tfa/terms/Ikemefuna]] :: the captive boy* [citation needed]
----
 - **[[english/tfa/terms/Nwoye]] :: Okwonko's son by Ojiugo (renamed Isaac)**
+
 - **[[english/tfa/terms/Ekwefi]] :: Okownko's 2nd wife, Ezinma's mother**
 - **[[english/tfa/terms/Ezinma]] :: Ekwefi's favorite daughter**
 - [[english/tfa/terms/Obiageli]] :: Ojiugo's daughter

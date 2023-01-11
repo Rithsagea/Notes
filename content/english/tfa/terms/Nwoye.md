@@ -1,3 +1,4 @@
 ---
 title: "Nwoye"
 ---
+He is [[english/tfa/terms/Okwonko]]'s oldest son, possessing some character traits similar to [[english/tfa/terms/Unoka]]. This gentleness leads Okwonko to constantly beat him, until [[english/tfa/terms/Ikemefuna]]'s influence leads him to develop his own sort of masculinity, gaining a level of respect from Okwonko. He continues to struggle between masculinity and his attraction towards arts and stories. Upon [[english/tfa/terms/Ikemefuna]]'s death, his personage turns around, and he starts to scorn his father. Eventually, after the white missionaries arrive, he converts to Christianity, leaving behind his family and Okwonko. As a result, he is disowned for being "effeminate".
