@@ -11,10 +11,10 @@ title: "Study Guide"
 - **[[english/tfa/terms/Ezinma]] :: Ekwefi's favorite daughter**
 - [[english/tfa/terms/Obiageli]] :: Ojiugo's daughter
 - [[english/tfa/terms/Ojiugo]] :: Okonkwo's third wife
-### Characters from Banishment [Incomplete]
+### Characters from Banishment
 - [[english/tfa/terms/Uchendu]] :: eldest member of Okonkwo's mother's family who shelters Okonkwo
 - [[english/tfa/terms/Nneka]] :: ("mother is supreme") first child born to Okonkwo in exile
-- [[english/tfa/terms/Nwofa]] :: ("born in the wilderness") first SON born to Okonkwo in exile
+- [[english/tfa/terms/Nwofa]] :: ("born in the wilderness") first SON born to Okonkwo in exile [incomplete]
 ## Villagers
 ### Religious Figures [Incomplete]
 - [[english/tfa/terms/Agbala]] :: oracle of the hills and caves
