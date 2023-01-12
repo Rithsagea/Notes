@@ -5,13 +5,13 @@ title: "Study Guide"
 ## Okwonko's Family
 - *[[english/tfa/terms/Okwonko]] :: Main Character* [elaboration needed]
 - [[english/tfa/terms/Unoka]] :: Okonkwo's father 
-- *[[english/tfa/terms/Ikemefuna]] :: the captive boy* [citation needed]
+- [[english/tfa/terms/Ikemefuna]] :: the captive boy
 - **[[english/tfa/terms/Nwoye]] :: Okwonko's son by Ojiugo (renamed Isaac)**
-
 - **[[english/tfa/terms/Ekwefi]] :: Okownko's 2nd wife, Ezinma's mother**
 - **[[english/tfa/terms/Ezinma]] :: Ekwefi's favorite daughter**
 - [[english/tfa/terms/Obiageli]] :: Ojiugo's daughter
 - [[english/tfa/terms/Ojiugo]] :: Okonkwo's third wife
+---
 ### Characters from Banishment
 - [[english/tfa/terms/Uchendu]] :: eldest member of Okonkwo's mother's family who shelters Okonkwo
 - [[english/tfa/terms/Nneka]] :: ("mother is supreme") first child born to Okonkwo in exile

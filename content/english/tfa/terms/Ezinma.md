@@ -1,3 +1,4 @@
 ---
 title: "Ezinma"
 ---
+[[english/tfa/terms/Ekwefi]]'s first child that survived past birth. Is quite beautiful, and capable of reading her father, [[english/tfa/terms/Okwonko]], fairly well. As a result of her maturity, Okwonko repeatedly makes remarks that he wishes she were his son. Near the middle of the story, she falls ill, panicking both Okwonko and her mother Ekwefi. She is taken by [[english/tfa/terms/Chielo]] to the cave of [[english/tfa/terms/Agbala]] at the latter's (deity) request. After recovering, she does not have much of a role in the story. Her beauty makes a reapparance after Okwonko returns from his banishment, slightly emphasizing his return. 
