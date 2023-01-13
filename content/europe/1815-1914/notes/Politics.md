@@ -44,5 +44,32 @@ tags:
 - Charles overthrown
 - memorialized in literature!
 - *Les Miserables* (1862) by Victor Hugo
-## Art Pieces
-- Eugene Delacroix, Romanticism *Liberty Leadinng the People (1830)*; located in Paris, Louevre
+- Eugene Delacroix, Romanticism *[[cards/Liberty Leading the People]]* (1830); located in Paris, Loeuvre
+## The German Confedration
+- 1815-1848 ... 2 dominant states = Germany and Austria
+- Political Conservatism, but `ideologies of change`; nationalism, conservatism
+- students at universities throuhgout the *Bund* challenged conservatism, formed **Burschenschaften** (nationalistic fraternties)
+	- **platform** :: 2 "planks" (political parties)
+	1. liberal government (a constitution)
+	2. unification of Germany
+	- (conservative) government response
+### Carlsbad Decrees (1819)
+- suppressed any oppositino to [[cards/Klemens von Metternich|Metternich's]] conservative policies
+	- press censorship was imposed
+	- secret police and spy network kept track of and rooted out opposition
+	- government cracked down on universities (students and teachers) which often challenged government policies and tended to favor a more liberal course
+- status quo until 1848
+## The Revolutions of 1848
+### Great Britain after 1815
+- still quite conservative even though a constitutional monarchy (since 1688)
+- aristocracy dominant social class
+- not truly democratic
+	- property qualifications to vote
+	- no universal suffrage
+	- rich people controlled Parliament
+1. [[Tories|The Tories]] = `old money`
+2. [[Whigs|The Whigs]] = `new money` ... few
+- legislation reflected
+	1. [[Combination Acts]] (1799)
+		-  made "combinations" illegal (NJEA)
+		- most egregious & controversial act
