@@ -54,7 +54,7 @@ tags:
 	2. unification of Germany
 	- (conservative) government response
 ### Carlsbad Decrees (1819)
-- suppressed any oppositino to [[cards/Klemens von Metternich|Metternich's]] conservative policies
+- suppressed any opposition to [[cards/Klemens von Metternich|Metternich's]] conservative policies
 	- press censorship was imposed
 	- secret police and spy network kept track of and rooted out opposition
 	- government cracked down on universities (students and teachers) which often challenged government policies and tended to favor a more liberal course
@@ -71,5 +71,31 @@ tags:
 2. [[Whigs|The Whigs]] = `new money` ... few
 - legislation reflected
 	1. [[Combination Acts]] (1799)
-		-  made "combinations" illegal (NJEA)
+		-  made "combinations" illegal (unions)
 		- most egregious & controversial act
+	2. [[cards/The Corn Laws]] (1815)
+		- tariff on cheaper foreign grain
+		- egregious for common people
+		- benefitted landed aristocrats
+		- "boiling point"... by 1819
+		- `a good ol' protest` by critics... St. Peter's Park in Manchester
+		- **The Peterloo Massacre**
+		- not repealed until 1846
+## Romanovs in 19th C
+- main idea :: conservatism was challenged by "ideologies of change" in Russia
+### [[Alexander I]] (1801-1825)
+- [[cards/Congress of Vienna]] input
+- French Republic had an impact on Russia :: liberal revolt organized by **[[Northern Union|The Northern Union]]**
+#### Northern Union
+- Russian liberals
+- former Russian officers during Napoleonic Wars
+- made aware of ideals during war
+- 1825 :: [[Alexander I]]'s sudden death, chaos was opportunity
+- The Decembrist Revolt :: goals to overthrow tsar, new Constitution
+### Nicholas I
+- r. 1825-1855
+- immediately crushed the revolt
+- also involved in the [[Crimean War]]
+- dies of natural causes while Russia is dealing with issues
+#### Crimean War
+- first war in European history with photographs
