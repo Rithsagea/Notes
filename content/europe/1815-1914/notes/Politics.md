@@ -83,7 +83,7 @@ tags:
 		- not repealed until 1846
 ## Romanovs in 19th C
 - main idea :: conservatism was challenged by "ideologies of change" in Russia
-### [[Alexander I]] (1801-1825)
+### Alexander I (1801-1825)
 - [[cards/Congress of Vienna]] input
 - French Republic had an impact on Russia :: liberal revolt organized by **[[Northern Union|The Northern Union]]**
 #### Northern Union
@@ -99,3 +99,29 @@ tags:
 - dies of natural causes while Russia is dealing with issues
 #### Crimean War
 - first war in European history with photographs
+- `Sick Man of Europe dying` = Ottoman Empire
+	- Europe fought over `inheritance`
+	- **Great Powers** concerned about the "balance of power" ([[cards/Congress of Vienna]])
+	- especially the Crimea
+- all major European nations involved
+- not so fun facts
+	1. disease more than battlefield deaths
+		- cholera, typhoid, dysentery!
+	2. Florence Nightingale, field nurse
+	3. newspapers, telegraph :: media precedent
+	4. railroads & photographs :: precedent
+- Russians were "checked" by other conservative nations
+	- GB, France & Ottoman Empire (last only kept alive by "life support" until 1919)
+	- "biggest losers" were Russians...
+	- [[Nicholas I]] died in 1855 dies of natural causes (not in the war)
+	- next tsar, his son, [[Alexander II]]
+### Alexander II
+- r.1855-1881
+- inherits a domestic revolt from the humiliation, dumpster fire
+- in turn... a "wake up call"
+- "Westernization for the future!"
+- reforms after 1856
+	1. emancipated serfs in 1861! ... (98% of population) 
+		- The Great Emancipator
+		- *was inevitable historically* (Western Europe)
+	2. Army modernization (expansion & defense)
