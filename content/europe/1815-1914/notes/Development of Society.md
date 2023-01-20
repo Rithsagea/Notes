@@ -1,5 +1,8 @@
 ---
 title: "Development of Society"
+tags:
+- notes
+- tbv
 ---
 p. 678-687
 ## Growth of Prosperity
@@ -20,7 +23,7 @@ p. 678-687
 - 1897 :: oil-fired engine
 - 1902 :: Hamburg-Amerika Line uses oil > coal in ocean liners
 - [[Gottlieb Daimler]] :: light engine 1886, led to automobile
-- [[henry Ford]] (1863-1947) :: produced cars, America overtook French car production (735k/yr)
+- [[Henry Ford]] (1863-1947) :: produced cars, America overtook French car production (735k/yr)
 - 1900 :: Zeppelin airship
 - 1903 :: Kitty Hawk, NC, Wright brothers gasoline engine plane
 - after 1870

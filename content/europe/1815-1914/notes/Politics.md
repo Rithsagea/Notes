@@ -125,3 +125,31 @@ tags:
 		- The Great Emancipator
 		- *was inevitable historically* (Western Europe)
 	2. Army modernization (expansion & defense)
+	3. lessened censorship & travel ban
+	4. local government restructuring... [[Zemstvos]]
+	5. industrialization
+	- ironically, assassinated by "The People's Will", [[Anarchism]]
+		- 19th C ideology, political platform
+		- tried to achieve reform by killing political leaders
+### Nicholas II
+- [[Nicholas II]] r. 1894-1917
+- was "living in the past!" ruled as an absolutist!
+- so many reforms & changes by late 19thC, but not in Russia
+- his entire reign = "downward spiral"
+- attempted empire-building ... imperialism! didn't learn from [[Crimean War]]
+- "competing spheres" in Asia (with Japan)
+- [[Russo-Japanese War]] 1905 :: catastrophic
+- fought in Korea, no railroads to ship troops + supplies
+- direct domestic effect :: [[Revolution of 1905]]
+#### The Revolution of 1905
+- illustrated Russian "backwardness"
+- discontent Russians
+- took to the streets and tried to overthrow [[Nicholas II]]
+- `Bloody Sunday` = unarmed protestors killed
+	- destroyed people's faith and trust in the czar
+	- strikes and revolts exploded across Russia's cities and countryside
+- Option I :: reform to placate
+- Option II :: do nothing (be overthrown)
+- Option III :: use army to end revolt
+- Option IV :: abdicate (not respectable)
+#### The October Manifesto
