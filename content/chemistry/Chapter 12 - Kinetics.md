@@ -19,19 +19,17 @@ $$
 $$
 If you know calculus, you can probably ignore the next 3 sections. Everything is derived from basic expressions.
 ### 0th Order
-$$
-\begin{gather}
+$$\begin{gather}
 \frac{d[A]}{dt}=k[A]^0\\
-[A]=[A]_0-kt\\
-t_\frac{1}{2}=\frac{[A]_0}{2k}
-\end{gather}
-$$
+[A]=[A]\_0-kt\\
+t_{\frac{1}{2}}=\frac{[A]_0}{2k}
+\end{gather}$$
 ### 1st Order
 $$
 \begin{gather}
 \frac{d[A]}{dt}=k[A]\\
-\ln[A]=\ln[A]_0-kt\\
-[A]=[A]_0e^{-kt}\\
+\ln[A]=\ln[A]\_0-kt\\
+[A]=[A]\_0e^{-kt}\\
 t_{\frac{1}{2}}=\frac{\ln{2}}{k}
 \end{gather}
 $$
@@ -39,7 +37,7 @@ $$
 $$
 \begin{gather}
 \frac{d[A]}{dt}=k[A]^2\\
-\frac{1}{[A]}=\frac{1}{[A]_0}-kt\\
+\frac{1}{[A]}=\frac{1}{[A]\_0}-kt\\
 t_\frac{1}{2}=\frac{1}{k[A]_0}
 \end{gather}
 $$
