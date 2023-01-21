@@ -42,4 +42,14 @@ t_\frac{1}{2}=\frac{1}{k[A]_0}
 \end{gather}
 $$
 ## Reaction Mechanisms
-Chemical reactions are often comprised of multiple elementary steps. (**rules for elementary steps matching original reaction**) The slowest reaction amongst these elementary reactions is the `rate-limiting` reaction.
+Chemical reactions are often comprised of multiple elementary steps. The sum of these elementary steps must be identical to the original reaction in terms of reactants + products, as well as rate law. The slowest reaction amongst these elementary reactions is the `rate-limiting` reaction. The other reactions can be used in combination with the previous reaction's rate law to find the overall rate law of the reaction.
+### Arrhenius Equation
+Generally, activation energy is positive, and creates slower reactions at higher values. This is combined with the the steric factor, $p$, to create the **Arrhenius equation**, with a frequency factor $A$.
+$$
+\begin{gather}
+k=zpe^{-E_a/RT}=Ae^{-E_a/RT}\\
+\ln(k)=-\frac{E_a}{R}(\frac{1}{T})+\ln(A)
+\end{gather}
+$$
+## Catalysis
+Catalysts are materials that aid a chemical reaction, accelerating or retarding the reaction. **Homogenous catalysts** are in the **same state of matter** as the reactants, while a **heterogenous catalyst** is in a different phase (usually solids). For the latter, molecules are usually **adsorbed** (gathered on the surface). Meanwhile, homogenous catalysts can be transformed to intermediates, then back through a reaction process. Acids and bases can also be catalysts.
