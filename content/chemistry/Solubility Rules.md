@@ -11,4 +11,4 @@ title: "Solubility Rules"
 -   Most hydroxides ($\text{OH}^-)$ are slightly soluble;
     -   except highly: $\text{NaOH}$, $\text{KOH}$, $\text{LiOH}$
     -   except marginally: $\text{Ca(OH)}_2$, $\text{Sr(OH)}_2$, $\text{Ba(OH)}_2$
--   Most sulfides ($\text{S}^{2-}$), carbonates ($\text{CO}_3^{2-}$), chromates ($\text{CrO}_4^{2-}$), phosphates ($\text{PO}_4^{3-}$) are slightly soluble
+-   Most sulfides ($\text{S}^{2-}$), carbonates ($\text{CO}_3^{2-}$), chromates ($\text{CrO}_4^{2-}$), phosphates ($\text{PO}_4^{3-}$) are insoluble
