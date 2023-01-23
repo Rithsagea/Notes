@@ -23,7 +23,7 @@ tags:
 - [[europe/1815-1914/notes/Industrialization]]
 - [[europe/1815-1914/notes/Politics]]
 ## TBV
-- TBV 1 6 :: [[europe/1815-1914/notes/Industrialization in Great Britain]]
-- TBV 1 11 :: [[europe/1815-1914/notes/Spread of Industrialization]]
-- TBV 1 16 :: [[europe/1815-1914/notes/Eastern Europe]]
-- TBV 1 20 :: [[europe/1815-1914/notes/Development of Society]]
+- TBV 1 6 :: [[europe/1815-1914/tbv/Industrialization in Great Britain]]
+- TBV 1 11 :: [[europe/1815-1914/tbv/Spread of Industrialization]]
+- TBV 1 16 :: [[europe/1815-1914/tbv/Eastern Europe]]
+- TBV 1 20 :: [[europe/1815-1914/tbv/Development of Society]]
