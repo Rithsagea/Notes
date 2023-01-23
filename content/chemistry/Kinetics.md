@@ -1,5 +1,5 @@
 ---
-title: "Chapter 12 - Kinetics"
+title: "Kinetics"
 ---
 ## Rate Laws
 The following is a generic definition of a rate law. These can be determined by examining experimental data, and analyzing how the reaction rate changes with respect to concentration.

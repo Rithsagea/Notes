@@ -8,5 +8,5 @@ title: "Notes"
 ## Language
 - [[french|French]]
 ## Science
-- [[chemistry|Chemistry]]
+- [[chemistry/Chemistry|Chemistry]]
 - [[physics|Physics]]
