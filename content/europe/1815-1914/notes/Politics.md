@@ -152,4 +152,14 @@ tags:
 - Option II :: do nothing (be overthrown)
 - Option III :: use army to end revolt
 - Option IV :: abdicate (not respectable)
+- chooses Option I, but lies and doesn't actually do anything
 #### The October Manifesto
+- choice was complex & volatile
+- advisor, [[Sergei Witte]] created & urged [[Nicholas II]] to proclaim reforms [[October Manifesto]]
+- set of liberal reforms to placate populace
+	1. Constitution
+	2. The Duma
+- 1905-1917, he remained tsar, shaky control, poor foreign policy choices
+- most egregious (1917) adamant they could win "unwinnable war"
+- rise of [[Socialist Party]] concurrently between 1905-1917 :: Bolsheviks and Lenin
+- urged immediate withdrawal of "Capitalist war"
