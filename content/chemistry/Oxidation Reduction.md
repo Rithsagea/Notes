@@ -23,22 +23,22 @@ aliases: ['Redox']
 ### Oxidizers
 <br>
 
-| Reactant                     | Product              | Conditions       |
-| ---------------------------- | -------------------- | ---------------- |
-| $\text{MnO}_4\ ^-$             | $\text{Mn}^{2+}$     | neutral, acidic  |
-| $\text{MnO}_4\ ^-$             | $\text{MnO}_2$       | basic            |
-| $\text{MnO}_2$               | $\text{Mn}^{2+}$     | acidic           |
-| $\text{Cr}_2\text{O}_7\ ^{2-}$ | $\text{Cr}^{3+}$     | acidic           |
-| $\text{Cr}_2\text{O}_7\ ^{2-}$ | $\text{CrO}_2^-$     | basic            |
-| $\text{HNO}_3$               | $\text{NO}_2$        | concentrated     |
-| $\text{HNO}_3$               | $\text{NO}$          | dilute           |
-| $\text{H}_2\text{SO}_4$      | $\text{SO}_2$        | hot concentrated |
-| $\text{HClO}_4$              | $\text{Cl}^-$        |                  |
-| $\text{H}_2\text{O}_2$       | $\text{H}_2\text{O}$ |                  |
-| $\text{Na}_2\text{O}_2$      | $\text{NaOH}$        |                  |
-| $\text{VIIA}^0$              | $\text{VIIA}^-$      |                  |
-| Metal -ic ions               | Metal -ous ions      |                  |
-| Metal ion                    | Free Metal           |                  |
+| Reactant                       | Product              | Conditions           |
+| ------------------------------ | -------------------- | -------------------- |
+| $\text{MnO}_4\ ^-$             | $\text{Mn}^{2+}$     | neutral, acidic      |
+| $\text{MnO}_4\ ^-$             | $\text{MnO}_2$       | basic                |
+| $\text{MnO}_2$                 | $\text{Mn}^{2+}$     | acidic               |
+| $\text{Cr}_2\text{O}_7\ ^{2-}$ | $\text{Cr}^{3+}$     | acidic               |
+| $\text{Cr}_2\text{O}_7\ ^{2-}$ | $\text{CrO}_2^-$     | basic                |
+| $\text{HNO}_3$                 | $\text{NO}_2$        | concentrated         |
+| $\text{HNO}_3$                 | $\text{NO}$          | dilute               |
+| $\text{H}_2\text{SO}_4$        | $\text{SO}_2$        | hot concentrated     |
+| $\text{HClO}_4$                | $\text{Cl}^-$        |                      |
+| $\text{H}_2\text{O}_2$         | $\text{H}_2\text{O}$ |                      |
+| $\text{Na}_2\text{O}_2$        | $\text{NaOH}$        | (creates basic soln) |
+| $\text{VIIA}^0$                | $\text{VIIA}^-$      |                      |
+| Metal -ic ions                 | Metal -ous ions      |                      |
+| Metal ion                      | Free Metal           |                      |
 ### Reducers
 <br>
 
