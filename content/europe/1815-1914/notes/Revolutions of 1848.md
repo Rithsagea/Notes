@@ -47,3 +47,31 @@ title: "Revolutions of 1848"
 - bad luck ascension of [[Franz Josef]] :: last [[cards/Habsburg Dynasty|Habsburg]] ruler, r. 1848-1916 (68 *jahren*)
 	- reign was a trainwreck
 	- 1866 :: [[Austro-Prussian War]]
+	- results
+	- 1867 :: [[Ausgleich]] (Compromise of 1867)
+	- Austria-Hungary created
+		- dual monarchy, separate constitution, legislation, capital
+		- same ruler [[Francis Joseph]]
+		- shared foreign policy, army, finances
+	- 1918 :: "Great War"
+	- 1919 :: "springtime of nations"
+	- result of [[Treaty of Versailles]]
+## Louis Napoleon
+- [[Louis Napoleon]] r. 1848-1871
+- photographs!
+- French stability after 1848
+- 1st elected president
+- promise `European power`
+### The Second Empire
+- 1852-1871 [[Napoleon]] was the first
+1. Paris -> "World Capital"
+	- model modern European city, complete rebuild
+	- necessity (destroyed in 1848, and regain respect)
+	- [[George Haussmann]] :: urban planner + architect
+2. French downfall
+	- [[Franco-Prussian War]] :: 1871, 
+	- Dreyfus affair
+	- Antisemitic scandal -> France army officer, [[Alfred Dreyfus]] accused of selling secrets to Prussia
+	- divided public opinion
+	- [[Emile Zola]] :: *J'accuse* accuse 
+- Germany is not anti-semitism in 19th C
