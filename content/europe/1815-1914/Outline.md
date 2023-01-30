@@ -16,7 +16,7 @@ tags:
 - "The Revolutions of 1848"
 - "The Age of Imperialism"
 - "New Science" & Philosophy
-	- Freud, Nietzsche, Social, Darw
+	- Freud, Nietzsche, Social, Darwin
 - Unification of Italy & Germany
 - 1914 = The First World War
 ## Class Notes
@@ -29,3 +29,4 @@ tags:
 - TBV 1 16 :: [[europe/1815-1914/tbv/Eastern Europe]]
 - TBV 1 20 :: [[europe/1815-1914/tbv/Development of Society]]
 - TBV 1 24 :: [[europe/1815-1914/tbv/Intellectual and Social Developments]]
+- TBV 1 30 :: [[europe/1815-1914/tbv/Imperialism]]
