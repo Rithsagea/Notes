@@ -74,4 +74,4 @@ title: "Revolutions of 1848"
 	- Antisemitic scandal -> France army officer, [[Alfred Dreyfus]] accused of selling secrets to Prussia
 	- divided public opinion
 	- [[Emile Zola]] :: *J'accuse* accuse 
-- Germany is not anti-semitism in 19th C
+- Germany is not antisemitism in 19th C

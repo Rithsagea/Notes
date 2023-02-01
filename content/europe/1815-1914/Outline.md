@@ -23,6 +23,7 @@ tags:
 - [[europe/1815-1914/notes/Industrialization]]
 - [[europe/1815-1914/notes/Politics]]
 - [[europe/1815-1914/notes/Revolutions of 1848]]
+- [[europe/1815-1914/notes/Imperialism]]
 ## TBV
 - TBV 1 6 :: [[europe/1815-1914/tbv/Industrialization in Great Britain]]
 - TBV 1 11 :: [[europe/1815-1914/tbv/Spread of Industrialization]]
