@@ -22,3 +22,21 @@ title: "Imperialism"
 - [[Eugenics]] also an accepted concept :: science of improving humans with selective breeding
 	- sterilization of physically / mentally inferior individuals
 	- recessive traits for subsequent generations
+	- criminality and pauperism viewed as genetic
+	- immigration restrictions (USA in 1920s)
+	- no racial intermarriage
+## Philosophy
+- [[Friedrich Nietzsche]]
+### Sigmund Freud
+- [[Sigmund Freud]] (1856-1939)
+- what drives our behavior? `more complex than you think!`
+- tremendous <u>inner conflict</u>
+- "The Freudian iceberg"
+- *The Interpretation of Dreams* (1900)
+- Subconscious desires (the *id*), driven by the <u>pleasure principle</u>
+	- animalistic tendencies
+	- libido
+	- conflict with societal norms -> repression
+		- primal (taboo) desires
+		- traumatic (childhood) events
+	- repressed memories / experiences impact one's behavior
