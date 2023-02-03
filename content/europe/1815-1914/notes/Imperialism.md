@@ -40,3 +40,26 @@ title: "Imperialism"
 		- primal (taboo) desires
 		- traumatic (childhood) events
 	- repressed memories / experiences impact one's behavior
+### Freudian Iceberg
+1. The id :: primal drives, `the pleasure priniciple`
+2. the ego :: `the reality principle`, keeps the id in check
+3. the superego :: societal norms + expectations
+- behavior depends on which "wins out"
+### Friedrich Nietzsche
+- most works are pretty much unreadable
+- Western Civilization was <u>flawed</u>
+	- <u>decadent</u> :: consumerism & materialism!
+	- hinders progress of individuals
+	- renders them incapable of creativity
+	- promotes mediocrity... (participation awards)
+	- instills "worthless values" :: religion
+- <u>in a positive sense</u>
+	- individuals have untapped potential
+	- rely on themselves
+	- find value in valueless world
+	- break `herd mentality` :: conditioned by society, don't fear uniqueness
+	- few individuals can achieve this :: `Übermenschen` , (superman, superior individual)
+	- break the `chains of mediocrity`
+	- basis of 20th C philosophical movements :: Existentialism
+## Germany
+- Bismarckian System (Germany after 1871)
