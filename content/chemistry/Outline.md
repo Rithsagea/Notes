@@ -20,3 +20,5 @@ title: "Chemistry"
 ## Kinetics
 - [[chemistry/Kinetics]]
 ## Equilibrium
+## Acids and Bases
+- [[chemistry/Acids and Bases]]

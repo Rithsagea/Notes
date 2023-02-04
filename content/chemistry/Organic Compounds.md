@@ -43,7 +43,7 @@ If something seems off, refer to the [IUPAC Nomenclature](https://chem.libretext
 - <u>ketone</u> :: contains $\text{C}=\text{O}$ bond in middle (ex: 2-pentan<u>one</u>)
 - <u>aldehyde</u> :: contains $\text{C}=\text{O}$ bond at end (ex: pentan<u>al</u>)
 - <u>amines</u> :: exists as $\text{R}-\text{NH}_2$ (ex: methyl<u>amine</u>, trimethyl<u>amine</u>)
-- <u>carboxylic acids</u> :: exists as $\text{R}-\text{COOH}$
+- [[Acids and Bases#Categorization#Acids|carboxylic acids]] :: exists as $\text{R}-\text{COOH}$
 	- ethan<u>oic acid</u> :: acetic acid
 	- methan<u>oic acid</u> :: formic acid
 	- butan<u>oic acid</u> :: butyric acid
