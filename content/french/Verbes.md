@@ -98,6 +98,8 @@ Pour former le plus-que-parfait temps, utilise l'imparfait forme de <u>avoir</u>
 > [!WARNING]
 > TEC
 ## Voix passif
+> [!WARNING]
+> TEC
 ## Verbes irréguliers
 ### Avoir
 |      | présent | passé simple |

@@ -63,3 +63,22 @@ title: "Imperialism"
 	- basis of 20th C philosophical movements :: Existentialism
 ## Germany
 - Bismarckian System (Germany after 1871)
+- master of diplomacy after 1871
+- worried about <u>French</u> vengeance since, humiliated them in 1871 during [[Franco-Prussian War]]
+	- Alsace-Lorrain & indemnity issues "sore subjects"?
+	- French seek revenge IF possible
+	- feared a 2 front war (or 3 front war)
+- isolate France diplomatically
+	- befriend the Russians & Austria-Hungary
+	- 1873 :: <u>The Three Emperor's League</u> :: DE, A-H, RU
+	- 1879 :: <u>The Dual Alliance</u> :: DE, A-H
+	- 1882 :: <u>The Triple Alliance</u> :: DE, AH, IT
+	- 1887 :: <u>Reinsurance Treaty</u> :: DE, RU
+- minimal Imperialism
+- [[Berlin Conference]] :: 1885, carve up non-Western world
+## Domestic Policies
+- biggest threats after 1871
+1. Catholics (Centre Party)
+	- Germany divided religiously since Reformation
+	- Germany was a Lutheran nation since 1517
+2. [[German Social Democratic Party|Socialist Party]] :: still in 2021
