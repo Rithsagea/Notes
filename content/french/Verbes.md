@@ -83,44 +83,52 @@ Utilise ce temps quand on ne sait pas l'heure exacte de l'action on veux décrir
 
 | pn.  | terminé |
 |:----:|:-------:|
-|  je  |   ais   |
-|  tu  |   ais   |
-|  il  |   ait   |
-| vous |  ions   |
-| nous |   iez   |
-| ils  |  aient  |
+|  je  |  -ais   |
+|  tu  |  -ais   |
+|  il  |  -ait   |
+| vous |  -ions  |
+| nous |  -iez   |
+| ils  | -aient  |
 ### Plus-que-parfait
 Pour former le plus-que-parfait temps, utilise l'imparfait forme de <u>avoir</u> et le passé compose du premier verbe. Ce temps décrire les actions qui ont lieu avant le passé.
 ## Subjonctif
-> [!WARNING]
-> TEC
+Cette mode est utilisé après <u>qui ou que</u> et s'il y a deux sujets. Elle décrit quand l'orateur exprime la subjectivité, le doute, ou quelque chose fictif. Notez que il n'y a pas un subjonctif passé, utilisez toujours le présent, même dans le passé [Voilà](https://www.lawlessfrench.com/grammar/subjunctive/)  plus d'information pour utiliser cette mode.
+
+Pour former le subjonctif, prendre le 3ème personne du pluriel, et remplacer -<u>ent</u> avec la corrige terminaison.
+
+| pn.  | terminé |
+|:----:|:-------:|
+|  je  |   -e    |
+|  tu  |   -es   |
+|  il  |   -e    |
+| vous |  -ions  |
+| nous |  -iez   |
+| ils  |  -ent   |
 ## Conditionnel
-> [!WARNING]
-> TEC
-## Voix passif
-> [!WARNING]
-> TEC
+Pour former le conditonnel est formé le futur simple conjugaison avec l'imparfait terminaisons. Le conditionnel passé est formé avec le conditionnel présent du verbe auxiliare, et le passé compose du verbe principal. On utilise le conditionnel pour un souhait, parler de l'avenir dans le passé, les clauses conditionnels, et les demandes polies. [Voilà](https://francais.lingolia.com/en/grammar/verbs/conditionnel) certains exceptions de conjugaison.
+## Voix passive
+Formez la voix passive avec <u>être</u> et le passé compose. Le verbe principal s'accorde avec le sujet. Pour autre temps ou modes, conjuguer être en conséquent.
 ## Verbes irréguliers
 ### Avoir
-|      | présent | passé simple |
-| ---- | ------- | ------------ |
-| je   | ai      | eus          |
-| tu   | as      | eus          |
-| il   | a       | eut          |
-| vous | avez    | eûmes        |
-| nous | avons   | eûtes        |
-| ils  | ont     | eurent       |
+|      | présent | passé simple | futur simple  |
+| ---- | ------- | ------------ | ------------- |
+| je   | ai      | eus          | aur<u>ai</u>  |
+| tu   | as      | eus          | aur<u>as</u>  |
+| il   | a       | eut          | aur<u>a</u>   |
+| vous | avez    | eûmes        | aur<u>ons</u> |
+| nous | avons   | eûtes        | aur<u>ez</u>  |
+| ils  | ont     | eurent       | aur<u>ont</u> |
 
 Passé compose :: **eu**
 ### Être
-|      | présent | passé simple |
-| ---- | ------- | ------------ |
-| je   | suis    | fus          |
-| tu   | es      | fus          |
-| il   | est     | fut          |
-| vous | êtes    | fûmes        |
-| nous | sommes  | fûtes        |
-| ils  | sont    | furent       |
+|      | présent | passé simple | futur simple  |
+| ---- | ------- | ------------ | ------------- |
+| je   | suis    | fus          | ser<u>ai</u>  |
+| tu   | es      | fus          | ser<u>as</u>  |
+| il   | est     | fut          | ser<u>a</u>   |
+| vous | êtes    | fûmes        | ser<u>ez</u>  |
+| nous | sommes  | fûtes        | ser<u>ons</u> |
+| ils  | sont    | furent       | ser<u>ont</u> |
 
 Passé compose :: **été**
 ### Faire
