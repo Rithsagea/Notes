@@ -82,3 +82,26 @@ title: "Imperialism"
 	- Germany divided religiously since Reformation
 	- Germany was a Lutheran nation since 1517
 2. [[German Social Democratic Party|Socialist Party]] :: still in 2021
+	- inherently "anti-German"
+	- allegiance to "workers of the world"
+	- other European working class members...
+	- NOT to the "Fatherland" (Nationalism)
+	- Bismarck initiated a campaign against them...
+### Kulturkampf
+- Goal of further <u>secularization</u> 
+1. Reducing power of the Pope!
+2. Instituted the anti-Socialist Laws
+	- Socialist organizations & meetings
+	- to "win" support from them, <u>enacted legislation</u> through the Reichstag
+	- *1st social programs in Europe*
+## Kaiser Wilhelm
+- [[Kaiser Wilhelm II]] :: r. 1888-1918
+- megalomaniac
+- vs [[cards/Otto von Bismarck|Bismarck]]
+	- clash of strong personalities,
+	- both had "Type A" personalities (big egos)
+	- 44 year age difference (29 vs Bismarck 73)
+	- Bismarck not used to being questioned about his style
+	- micro-manager
+- <u>psychologists</u> argue he was compensating for his deformed arm...concealed it well in photos
+- Bismarck wanted to maintain peace, he was dismissed in 1890
