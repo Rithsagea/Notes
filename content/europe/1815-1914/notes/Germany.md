@@ -1,5 +1,5 @@
 ---
-title: "Imperialism"
+title: "Germany"
 ---
 ## Berlin Conference
 - [[Berlin Conference]] 1884-1885
@@ -61,7 +61,7 @@ title: "Imperialism"
 	- few individuals can achieve this :: `Übermenschen` , (superman, superior individual)
 	- break the `chains of mediocrity`
 	- basis of 20th C philosophical movements :: Existentialism
-## Germany
+## Rulers
 - Bismarckian System (Germany after 1871)
 - master of diplomacy after 1871
 - worried about <u>French</u> vengeance since, humiliated them in 1871 during [[Franco-Prussian War]]
@@ -104,4 +104,17 @@ title: "Imperialism"
 	- Bismarck not used to being questioned about his style
 	- micro-manager
 - <u>psychologists</u> argue he was compensating for his deformed arm...concealed it well in photos
-- Bismarck wanted to maintain peace, he was dismissed in 1890
+- Bismarck wanted to maintain peace, he was dismissed in 1890; in his absence
+- Wilhelm promoted **Weltpolitik**
+	1. aggressive imperialism; demanding `a place in the sun` for Germany
+	2. accelerated militarism; industrialized, Baltic fleet...U-boats
+	3. poor diplomatic choices; didn't renew [[Reinsurance Treaty]] with Russians
+- [[cards/Otto von Bismarck|Bismarck]] dies 1898 `Europe today is a poweder keg and the leaders are like men smoking in an arsenal ... a single spark will set off an explosion that will consume us all ... I cannot tell you when that explosion will occur, but I can tell you where ... some damned foolish thing in the Balkans will set it off.`
+## Powder Keg
+- historians reference to the volatile Balkan Peninsula before 1914
+- `Sick man was dying` (Ottoman Empire)
+- Russian & Austrian Empire competed for the "inheritance"
+- Serbian <u>nationalists</u> viewed it as opportunity to unite ALL ethnic Serbs under 1 state
+- *Nationalism = `Ideology of change`*; *Empires (Conservative) feared it*
+- 1912 :: <u>Serbia</u> became independent ... some ethnic Serbs still under [[cards/Habsburg Dynasty|Habsburg]] control
+- 
