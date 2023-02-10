@@ -1,6 +1,10 @@
 ---
 title: "Outline"
 ---
+[Index](physics)
+## Mechanics
+- [[physics/Kinematics]]
+- [[physics/Momentum]]
 
 ## Electrostatics
 Charge
