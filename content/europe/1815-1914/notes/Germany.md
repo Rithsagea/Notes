@@ -117,4 +117,29 @@ title: "Germany"
 - Serbian <u>nationalists</u> viewed it as opportunity to unite ALL ethnic Serbs under 1 state
 - *Nationalism = `Ideology of change`*; *Empires (Conservative) feared it*
 - 1912 :: <u>Serbia</u> became independent ... some ethnic Serbs still under [[cards/Habsburg Dynasty|Habsburg]] control
-- 
+- some ethnic Serbs wanted to be linked to Bosnia-Herzegovina, but denied by [[cards/Habsburg Dynasty|Habsburgs]]
+## Start of WWI
+- [[Franz Ferdinand]] makes diplomatic trip from Sarajevo, Bosnia-Herzegovina
+- hated by Serbs, was viewed as an offensive act
+- June 28, 1914; assassination of archduke [[Franz Ferdinand]] by [[Gavrilo Princip]]
+- member of the "Black Hand" (Serbian nationalist / anarchist organization)
+- <u>the spark that lit the powder keg...</u>
+- start of war more complex than simple assassination, `European gamble`
+- <u>"July Crisis"</u>... heightened tensions
+- Austria-Hungary presented an <u>ultimatum</u> to Serbian government
+	- Serbia ending all anti-Austrian activities
+	- Punish any Serbian officials involved in the assassination
+	- Allow Austria to conduct their own investigation
+- Germany issued a <u>blank check</u> of support...if Austrian Hungary declared war on Serbia
+- accelerated outbreak of WWI
+- <u>July 28, 1914</u> exactly a month after the assassination
+- alliances kicked in... "dominos fell", war based off of web of alliances
+### The Black Hand
+1. Serbian Nationalists (?) :: goal of uniting ethnic Serbians under one state
+2. Anarchists (?)
+3. Both (?)
+### The Guns of August
+- Book by Barbara W. Tuchman
+- Jubilation & Mobilization across Europe
+- millions volunteered, thought it would benefit their country
+- photograph ironic... Europe believed soldiers would be "back before the leaves fell"
