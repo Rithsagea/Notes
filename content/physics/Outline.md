@@ -5,25 +5,17 @@ title: "Outline"
 ## Mechanics
 - [[physics/Kinematics]]
 - [[physics/Momentum]]
-
 ## Electrostatics
-Charge
-Electric Field
-Electric Force
-Gaussian Surface
-
+- Charge
+- Electric Field
+- Electric Force
+- Gaussian Surface
 ### Circuits
-Resistance Physical Definition
-Capacitors
-	Capacitance :: $C=\frac{\kappa\epsilon_0A}{d}=\frac{Q}{\Delta V}$
-Time Constants
-	RL Circuit :: $\frac{L}{R}$
-	RC Circuit :: $RC$
-	LC Circuit :: 
-Kirchoff Law
-
+- [[physics/Resistance]]
+- [[physics/Capacitance]]
+- [[physics/Kirchoff]]
 ## Magnetics
-Magnetic Field
-Magnetic Flux
-Induced EMF
+- Magnetic Field
+- Magnetic Flux
+- Induced EMF
 - Moving Rod, $E=Blv$
