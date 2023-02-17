@@ -21,3 +21,26 @@ title: "World War I"
 - by 1917, Russia was suffering the most
 - he took <u>direct</u> control of Army (was inept)
 - Russian morale was <u>non-existent</u>
+### The February Revolution
+- misery of the populace (<u>"3rd Estate"</u>)
+- no representation in Duma (<u>Estates General</u>)
+- fed up with inept government ([[Louis XVI]])
+- sky rocketing bread prices caused by war (<u>Parisian women</u>)
+- riots & strikes in Petrograd (<u>Paris</u>)
+- told army to shoot protestors (they sided with them!)
+- [[Nicholas II]] abdicated & arrested ([[Louis XVI]])
+- <u>two factions vied for government over</u>
+	- issue of WWI & future government type ([[National Assembly]])
+	1) "Provisional Government" ([[Alexander Kerensky]])
+	2) [[Bolshevik Party]] (Russian Marxist Party)
+		- supported by the Petrograd soviet (workers' councils)
+		- radical Marxists... lower class & workers (sans culottes)
+		- charismatic & popular leaders...
+		- [[Vladmir Lenin]] & [[Leon Trotsky]] ([[Robespierre]] & [[Danton]])
+		- platform = "The April Theses"
+		- slogan = "Peace, land & bread!"...
+### The October Revolution
+- Bolsheviks staged a bloodless *coup d'etat* ... "Winter Palace in Petrograd"
+- Lenin was a man of his word! [[Treaty of Brest-Litovsk]] (March 1918)
+	- *quid pro quo* Lenin, Russian Government & Central Powers
+- tsarism no longer an option 16 July 1918
