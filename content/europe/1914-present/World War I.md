@@ -44,3 +44,22 @@ title: "World War I"
 - Lenin was a man of his word! [[Treaty of Brest-Litovsk]] (March 1918)
 	- *quid pro quo* Lenin, Russian Government & Central Powers
 - tsarism no longer an option 16 July 1918
+## Versailles Treaty
+- Hall of Mirrors, signed June 28, 1919 (5 years after assassination)
+- negotiation took 6 months (January - June 1919)
+### "The Good" (Wilson)
+1. League of Nations (1919-1939)
+2. no more empires, "springtime of nations"
+### "The Bad?" (Clemenceau)
+- `egregious clauses`
+	- justified from 1871 humiliation
+	- reality of WWI suffering / damages
+	- predicted future German aggression
+1. <u>Article 231</u> "War Guilt" clause
+2. <u>Article 232</u> - reparations ... TBD
+3. Rhineland demilitarized
+4. Aslace-Lorraine (1871)
+5. no representation in league
+6. army limited! air force forbidden
+	- led to "economic catastrophe" (1920s)
+	- predicted by [[John Maynard Keynes]]
