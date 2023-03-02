@@ -58,8 +58,13 @@ title: "World War I"
 1. <u>Article 231</u> "War Guilt" clause
 2. <u>Article 232</u> - reparations ... TBD
 3. Rhineland demilitarized
-4. Aslace-Lorraine (1871)
+4. Alsace-Lorraine (1871)
 5. no representation in league
 6. army limited! air force forbidden
 	- led to "economic catastrophe" (1920s)
 	- predicted by [[John Maynard Keynes]]
+## League of Nations (1919-1939)
+- predecessor to the UN, first permanent international forum
+- founded after WWI to prevent future world wars
+## Women's Suffrage
+- many countries gave women the right to vote
