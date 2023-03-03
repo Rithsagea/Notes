@@ -1,5 +1,7 @@
 ---
 title: "World War I"
+tags:
+- notes
 ---
 ## Total War
 - Lord Kitchener -> British icon! (America took this poster)

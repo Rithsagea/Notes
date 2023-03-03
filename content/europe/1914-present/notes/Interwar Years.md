@@ -1,5 +1,7 @@
 ---
 title: "Interwar Years"
+tags:
+- notes
 ---
 ## Interwar Years (1919-1939)
 - `Fragile peace`
