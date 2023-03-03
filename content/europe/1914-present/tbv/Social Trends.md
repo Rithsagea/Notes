@@ -15,8 +15,8 @@ tags:
 ## Hopeful Years (1924-1929)
  - [[Gustav Stresemann]] :: led new German government, trying to pay off reparations
 - [[Dawes Plan]] :: American banker loaned out $200 mil for Germany to help recovery 
-- [[Locarno Pact]] :: Germany -> Belgian + French borders, peace (ignored Poland)
-- [[Kellogg-Briand Pact]] :: American agreement, pledged to avoid war (no reprecussions tho)
+- [[Treaty of Locarno]] :: Germany -> Belgian + French borders, peace (ignored Poland)
+- [[Kellogg-Briand Pact]] :: American agreement, pledged to avoid war (no repercussions tho)
 	- already no conflicts, since everyone's military was so exhausted
 ## Great Depression
 - American stock collapse and falling prices for agricultural goods
