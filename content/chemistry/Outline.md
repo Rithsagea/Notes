@@ -22,3 +22,5 @@ title: "Chemistry"
 ## Equilibrium
 ## Acids and Bases
 - [[chemistry/Acids and Bases]]
+## Fun
+- [[chemistry/Ferrofluid]]

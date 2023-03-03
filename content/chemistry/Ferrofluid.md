@@ -1,0 +1,63 @@
+---
+title: "Ferrofluid"
+---
+## Magnetite
+- combination of $\text{Fe}^{3+}$ and $\text{Fe}^{3+}$
+- Circuit board etchant :: $\text{FeCl}_3$, $\text{FeCl}_2$, $\text{HCl}$
+- Steel Wool :: $\text{Fe}$
+- $2\text{FeCl}_3+\text{Fe}\rightarrow3\text{FeCl}_2$
+	- exothermic, slow heat, speeds up reaction though
+	- ratio Fe2 to Fe3 is important, make sure to account for changes in proportions
+	- dark red Fe3 to green Fe2
+	- react until the wool stops changing (~30 minutes, left overnight though)
+	- may need to add more water if too much precipitant
+	- coffee filter, remove precipitate
+- Add Iron Nails and HCl to prevent oxidization
+	- Fe2 with air oxidizes to Fe3, and increases pH
+	- Fe(OH)3 gets formed eventually, which doesn't get reduced back
+	- Solid iron is to maintain 2+ state, and acid to dissolve Fe(OH)3
+- Ferric Chloride :: $\text{Fe}^{3+}$
+- Concentrated Ammonia :: $\text{NH}_3$
+- mixing
+	- 60mL Fe2 + 75mL Fe3 (?)
+		- 2 Fe3 : 1 Fe2 ($\text{Fe}_3\text{O}_4$)
+		- Do 1.7 : 1 instead, so oxidizing is accounted for
+		- Need to make sure to remove excess Fe2 at the end
+	- 3L container
+	- Addition Funnel of NH3, stirring to speed up
+	- need to be in nano particles, so addition funnel
+	- stir speed and adding ammonia matters, too big particles, vs too much oxygen
+		- room temperature
+		- 20x dilution
+		- stir ~ 1200 RPM, slowly increase to ~1500 as base thickens
+		- add base over 20 minutes
+- stabilizing
+	- ammonia, oleic acid -> ammonium oleate
+	- stir until it is a thick goo
+	- dump soap into the previous mixture, along with some <u>extra Ammonia</u>
+	- increased RPM ~1900RPM
+	- ammonium oleate + magnetite, adsorb, create hydrophobic tails on the magnetite to prevent clumping, stabilize
+- add dilute muriatic acid at the end (<u>prop TBD</u>)
+	- acid creates NH4Cl, then remove unreacted ammonium oleate to oleic acid (insoluble)
+	- magnetite separates out
+	- bring pH a little below neutral (~6-7)
+	- check pH every few minutes
+	- soap foam starts disappearing, and coated magnetite particles start separating
+	- around neutral point, color changes, foam turns white, magnetite separates out
+- separate particles from solution
+	- rubbing alcohol + magnet
+	- decant water, pull out particles with magnet (fine to remove weakly magnetic ones, to increase quality)
+	- keep doing this to get any stray magnetite, can include precipitate while dumping as well
+	- make sure to do in ~ 3 equal portions (magnet not strong enough if too much)
+	- wash container with water
+- wash magnetite
+	- add water, magnet to filter out, remove weaker particles
+		- repeat 3x
+	- wash with isopropanol
+		- first couple washings, takes some extra time to separate
+		- wait a bit longer for things to stay, by 3rd time is a lot quicker
+		- repeat 3x
+	- vacuum chamber with calcium chloride drying agent
+		- don't let it go to full vacuum, then let valve slightly decrease
+## Ferrofluid
+- add ~85% of magnetite mass in <u>kerosene</u>, creates a suspension
