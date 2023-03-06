@@ -37,7 +37,7 @@ tags:
 	- hope in collective disarmament throughout Europe, hope in averting another war
 	- failed
 	- October 29, 1929
-- ## Nazis
+## Nazis
 - seizure of power, but didn't use force, "played the game"
 - party existed before [[Great Depression]], only 7 members
 - many right wing parties with same platform
@@ -48,3 +48,31 @@ tags:
 	- majority party by 1933
 	- reluctantly appointed as chancellor by Hindenburg
 	- January 30, 1933 (biggest mistake of 20th C?)
+### Mein Kampf (1925)
+- manifesto / autobiography / Party platform (for Hitler)
+- written while imprisoned for attempted Nazi *coup* of German government
+- "The Beerhall Putsch" (November 1923)
+- only 1 year for treason...
+- became platform <u>after</u> "seizure of power" in 1933
+- 700+ <u>rambling</u> pages, boiled down to
+	1. Versailles is <u>unfair</u>
+	2. <u>Avenge</u> Versailles
+	3. History -> race conflict (Social Darwinism)
+	4. idea for <u>Lebensraum</u> for Germany
+		- at the expense of Eastern Europeans (subhuman)
+	5. Jews parasites that destroy Germany
+	6. Germany didn't lose WWI, Jewish conspiracy to subvert the war effort & Wilhelm II's government
+	7. vaguely references genocide
+### Propaganda
+- Nazis master of propaganda, utilized modern media
+	- film, posters, speeches, + radio
+- [[Joseph Goebbels]] :: "Minister of Propaganda", commissioned *Triumph of the Will*
+- 1935 - [[Leni Riefenstahl]] (director)
+- modified platform to reach voters pre 1933 (Versailles), after 1933 (depression)
+- platform
+	1. unite all Germans ([[Nationalism]])
+	2. regain respect
+	3. solve the [[Great Depression]]
+	4. "avenge" Versailles humiliation!
+	- 1930S = "steps to avenge"
+	- after 1933, start to push "plank" of Antisemitism
