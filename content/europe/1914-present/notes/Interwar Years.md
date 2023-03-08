@@ -76,3 +76,27 @@ tags:
 	4. "avenge" Versailles humiliation!
 	- 1930S = "steps to avenge"
 	- after 1933, start to push "plank" of Antisemitism
+## Soviet Union
+- 1922-1991 -> rest of course
+- effects of the Russian Revolution (1917)
+- blame [[Nicholas II]]'s ineptitude... Cold War (1945 - 1991)
+- Union of Soviet Socialist Republics (USSR)
+- [[Joseph Stalin]] :: 1924-1953
+- Pre 1939
+	- rise of Politburo (high ranking leaders of party), Common for communist government still
+	- <u>"The Five Year Plans"</u> :: Soviet planned economies (1st of 13, until 1991)
+	- government controls resources, determines <u>types</u> of products annually based on quotas
+	- "collectivization" of agriculture
+	- "the purges" and Ukrainian genocide
+	- rise of gulags in Siberia
+	- also the KGB. `we know when you are lying`
+### Purges
+- before 1939
+- `enemies of the state`, threats within the party ([[Leon Trotsky]])
+- "show trials"
+- done publicly to set an example; "options" after conviction
+	- disappear, killed, gulags, estimated 10M
+### 1st Five Year Plan
+- Goal was rapid development of the Soviet Union!
+- Success under Stalin before 1939
+- cult of personality, support Stalin
