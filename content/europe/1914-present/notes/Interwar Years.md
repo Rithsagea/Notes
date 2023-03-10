@@ -100,3 +100,41 @@ tags:
 - Goal was rapid development of the Soviet Union!
 - Success under Stalin before 1939
 - cult of personality, support Stalin
+### Role of Women
+- Soviet women granted suffrage in 1917
+- March 8 -> International Women's Day
+	- `A day of rebellion by working women against kitchen slavery`
+	- `down with the opression and vacuity of household work`
+	- `cleanliness is paramount in caring for your newborn`
+	- `glory to the female comrades-in-arms`
+- Fascist Role of Women (Italy & Germany)
+	- encouraged childbirth & triumph of German race
+	- same for Italy
+### Youth Camps
+1. Outdoor skills
+2. Physical fitness
+3. Patriotism
+## Economics
+- [[John Maynard Keynes|Keynesian]] economics, supply vs demand side economics, deficit spending
+- Volkswagen: `The people's car`
+	1. affordable & practical
+	2. designed by Ferdinand Porsche
+	3. driven by all (regardless of class)
+	4. created jobs
+	5. people happy ("strength through joy")
+	6. need for modern interstates...
+	- the Autobahnen (more public works projects)
+	- could transport troops IF a war occurred
+## Propaganda
+- purity of race + eugenics
+- physically & mentally-challenged viewed as a "drain" on the economy
+- encouraging childbirth & triumph of German race
+### Nuremberg Laws
+- `1st step` in Holocaust
+- anti-Semitic "plank" of the platform <u>emphasized</u> after 1933
+- blamed Jews for Germany losing WWI
+- `degenerating` German race based on hierarchic racial theory (next slide)
+- <u>laws</u> :: blatant discrimination
+- `Jewish problem` openly discussed in the Reichstag
+	1. defined "who's a Jew" based on lineage
+	2. citizenship revoked
