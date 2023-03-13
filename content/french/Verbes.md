@@ -94,16 +94,45 @@ Pour former le plus-que-parfait temps, utilise l'imparfait forme de <u>avoir</u>
 ## Subjonctif
 Cette mode est utilisé après <u>qui ou que</u> et s'il y a deux sujets. Elle décrit quand l'orateur exprime la subjectivité, le doute, ou quelque chose fictif. Notez que il n'y a pas un subjonctif passé, utilisez toujours le présent, même dans le passé [Voilà](https://www.lawlessfrench.com/grammar/subjunctive/)  plus d'information pour utiliser cette mode.
 
-Pour former le subjonctif, prendre le 3ème personne du pluriel, et remplacer -<u>ent</u> avec la corrige terminaison.
+Il y a 6 types d'expressions:
+1. nécessité
+2. volition
+3. émotion
+4. opinion
+5. incertitude
+6. possibilité
 
-| pn.  | terminé |
-|:----:|:-------:|
-|  je  |   -e    |
-|  tu  |   -es   |
-|  il  |   -e    |
-| vous |  -ions  |
-| nous |  -iez   |
-| ils  |  -ent   |
+Pour former le subjonctif, prendre le 3ème personne du pluriel, et remplacer -<u>ent</u> avec la corrige terminaison. Pour `vous` et `nous`, utiliser le 2ème personne du pluriel.
+
+| pn.  | terminé | avoir | être   |
+|:----:|:-------:| ----- | ------ |
+|  je  |   -e    | aie   | sois   |
+|  tu  |   -es   | aies  | sois   |
+|  il  |   -e    | ait   | soit   |
+| vous |  -ions  | ayons | soyons |
+| nous |  -iez   | ayez  | soyez  |
+| ils  |  -ent   | aient | soient |
+
+> [!INFO]- Radical Irrégulier
+> - faire :: fass-
+> - pouvoir :: puiss-
+> - savoir :: sach-
+> - aller :: aille, allions
+> - boire :: boive, buvoins
+> - devoir :: doive, devions
+> - prendre :: prenne, prenions
+> - recevoir :: reçoive, recevions
+> - venir :: vienne, venions
+> - voir :: voie, voyions
+> - vouloir :: veuille, voulions
+
+> [!INFO]- Exceptions
+> Les expressions suivantes exigent l'indicatif
+> - Il est certain que
+> - Il est évident que
+> - Il est probable que
+> - Il me semble que
+ 
 ## Conditionnel
 Pour former le conditonnel est formé le futur simple conjugaison avec l'imparfait terminaisons. Le conditionnel passé est formé avec le conditionnel présent du verbe auxiliare, et le passé compose du verbe principal. On utilise le conditionnel pour un souhait, parler de l'avenir dans le passé, les clauses conditionnels, et les demandes polies. [Voilà](https://francais.lingolia.com/en/grammar/verbs/conditionnel) certains exceptions de conjugaison.
 ## Voix passive
