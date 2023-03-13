@@ -127,6 +127,7 @@ Pour former le subjonctif, prendre le 3ème personne du pluriel, et remplacer -<
 > - vouloir :: veuille, voulions
 
 > [!INFO]- Exceptions
+> 
 > Les expressions suivantes exigent l'indicatif
 > - Il est certain que
 > - Il est évident que
