@@ -8,12 +8,12 @@ Ces conjonctions sont suivés du subjonctif
 - de façon que :: so that, in order that
 - bien que / quioque :: although
 - encore que :: although (literary)
-- sans que :: withhout
+- sans que :: without
 - avant que :: before
 - jusqu'à ce que :: until
 - en attendant que :: until
-- de peur que / de crinte que :: for fear that
+- de peur que / de crainte que :: for fear that
 - à moins que :: unless
 - pourvu que :: provided that, as long as
 - à condition que :: on the condition that, provided that
-- malgé que :: in spite of the fact that
+- malgré que :: in spite of the fact that

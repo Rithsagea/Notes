@@ -92,7 +92,7 @@ Utilise ce temps quand on ne sait pas l'heure exacte de l'action on veux décrir
 ### Plus-que-parfait
 Pour former le plus-que-parfait temps, utilise l'imparfait forme de <u>avoir</u> et le passé compose du premier verbe. Ce temps décrire les actions qui ont lieu avant le passé.
 ## Subjonctif
-Cette mode est utilisé après <u>qui ou que</u> et s'il y a deux sujets. Elle décrit quand l'orateur exprime la subjectivité, le doute, ou quelque chose fictif. Notez que il n'y a pas un subjonctif passé, utilisez toujours le présent, même dans le passé [Voilà](https://www.lawlessfrench.com/grammar/subjunctive/)  plus d'information pour utiliser cette mode.
+Cette mode est utilisé après <u>qui ou que</u> et s'il y a deux sujets. Elle décrit quand l'orateur exprime la subjectivité, le doute, ou quelque chose fictif. Notez que il n'y a pas un subjonctif futur, mais on peux utiliser le passé à utiliser le passé composé et conjuguer la verbe auxiliare. [Voilà](https://www.lawlessfrench.com/grammar/subjunctive/)  plus d'information pour utiliser cette mode.
 
 Il y a 6 types d'expressions:
 1. nécessité
