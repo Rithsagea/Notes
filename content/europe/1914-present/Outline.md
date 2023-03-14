@@ -5,5 +5,6 @@ title: "Outline"
 ## Class Notes
 - [[europe/1914-present/notes/World War I]]
 - [[europe/1914-present/notes/Interwar Years]]
+- [[europe/1914-present/notes/World War II]]
 ## TBVs
 - [[europe/1914-present/tbv/Social Trends]]

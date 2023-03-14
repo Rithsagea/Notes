@@ -138,3 +138,13 @@ tags:
 - `Jewish problem` openly discussed in the Reichstag
 	1. defined "who's a Jew" based on lineage
 	2. citizenship revoked
+	3. government jobs rescinded
+	4. marriage & sexual relationships *verboten*
+		- "degenerating" German race in future
+- public shaming, arrest & work camps
+- ex: *I am the greatest swine & sleep only with Jews*, *As a Jew, I only take German girls up to my room*
+- Europe & US were aware of these laws
+	1. collective reaction inn 1935 :: indifferent
+	2. Jewish reaction :: not panic... yet
+### Media
+- *Der Giftpilz* (1938), <u>The Poisonous Mushroom</u>, anti-Semitic children's book
