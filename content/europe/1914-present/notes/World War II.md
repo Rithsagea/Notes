@@ -22,3 +22,17 @@ title: "World War II"
 2. Promised no more demands in the future
 3. Premised on Germany being honorable
 - utilized "appeasement"
+- averted conflicts with Germany at all costs
+- sadly, Czechoslovakia "thrown under the bus" (ironically allied with GB since 1919)
+- [[Neville Chamberlain]] returned to GB that day, parlay the news of his work, speech at Heathrow Airport
+## Kristallnacht (1938)
+- November 8-9, 1938
+- government planned urban pogrom in Germany
+- synagogues & storefronts targeted and destroyed glass windows
+- 30k arrested, Aryan reaction was indifferent
+- Jewish reaction :: got more concerned, tried to emigrate, but no one would accept them
+- [[Evian Conference]] :: collective indifference
+## Stalin
+- by 1939, Stalin was not allied either with Hitler nor the Western democracies
+- the West hoped [[Joseph Stalin|Stalin]] would stand up to Hitler's aggression, news of developments shocked the world
+- diplomatic agreement between Hitler and Stalin, representatives; neither respected the "new" nations after Versailles Treaty
