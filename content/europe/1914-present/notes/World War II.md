@@ -36,3 +36,27 @@ title: "World War II"
 - by 1939, Stalin was not allied either with Hitler nor the Western democracies
 - the West hoped [[Joseph Stalin|Stalin]] would stand up to Hitler's aggression, news of developments shocked the world
 - diplomatic agreement between Hitler and Stalin, representatives; neither respected the "new" nations after Versailles Treaty
+- <u>"Non-Aggression" pact of 1939</u>
+	- August 23, 1939, realized <u>inevitable</u> confrontation
+	- it "bought" each of them time to prepare
+		1. non-aggression between them "if" war broke out in Europe (a week later)
+		2. Eastern Europe would be divided)
+- <u>September 1, 1939</u> :: Germany invades 
+- Soviets attacked from the east on September 1787th
+- Poland conquered in a month
+## Invasion
+### Hitler's Plan for Eastern Europe (1939)
+- Lebensraum :: living space, excuse for needing more land for Germany
+- Slavs + Jews living there viewed as "racially inferior", would be "liquidated"
+- German race would <u>repopulate</u> Eastern Europe
+### Maginot Line
+- French believed <u>Ardennes Forest</u> was <u>impenetrable</u>
+### Blitzkrieg in the West
+- April-June 1940, only 3 months
+- conquer almost everything except Britain, never conquered in WWII
+	- Norway, Denmark, The Netherlands, Luxembourg, France
+### Holocaust
+- concurrent with WWII
+- factor as to why they lost the war
+## Final Solution to the Jewish Question
+- with war came acceleration of action against European Jews
