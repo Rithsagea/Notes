@@ -60,3 +60,34 @@ title: "World War II"
 - factor as to why they lost the war
 ## Final Solution to the Jewish Question
 - with war came acceleration of action against European Jews
+- Holocaust detracted from war efforts
+1. conquer Europe
+2. racial war against "undesirables"
+- start of ghettos + genocide
+### Wannsee Conference
+- January 20, 1942, (1 day that changed the world)
+- meeting of high-ranking members of government
+- Adolf Eichmann (Hitler NOT present)
+- "the list" and logistics of deportation (RRs)
+- plan construction of "extermination camps"
+- most notorious, Auschwitz
+- concentration camp vs death camp; former for political prisoners mostly
+## Operation Barbarossa
+- June 22, 1941 to December 5, 1941 (2 days before [[Operation Barbarossa]])
+- initially large tracts of territory gained in Eastern Europe
+- Stalin traded "space for time" ... unleashed counteroffensive
+- 1941-1945 :: retreat for the remainder of the war
+### Effects
+- new and peculiar alliance
+- Joseph Stalin, TR, Winston Churchill
+### D-Day (June 6, 1944)
+- Between 1940-1944, Eisenhower controlled Western Europe (except GB)
+- developed risky plan to liberate Western Europe
+- American, British and Canadian troops in Normandy beach
+- high casualties, but worked, Germans never the same after D-Day
+### May 7, 1945
+- Germany surrendered
+- "Victory in Europe" Day (V-E Day)
+- Berlin had been conquered by Soviets
+- Hitler & Eva suicide (30 April)
+- remaining Nazis flee or commit suicide
