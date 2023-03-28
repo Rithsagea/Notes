@@ -35,4 +35,19 @@ title: "Cold War"
 - 1957: Treaty of Rome, EEC formed enlarged over time (73, 81, 86, 90)
 - "The Common Market"
 ## The Maastricht Treaty
-- Created the European Union, a common currency
+- Created the European Union, and a common currency
+- expansion beyond the Treaty of Rome (1957), labor can move freely
+## Brexit
+- "British exit" from the European Union 31 January 2020
+- Contributed more than they received from EU
+- 1st and only to leave EU
+## Germany
+- Germany divided 1949-1990
+- Berlin Blockade :: cuts of access to West Berlin (roads, supplies, electricity)
+- would US risk war to "save" West Berlin
+- <u>Berlin Luftbrücke</u> ( commonly Berlin airlift )
+- Soviets waved fists... "containment" success
+- August 13, 1961 - November 9, 1989
+	- soviet problem = defection from Communist nations, 3,500,000 before 1961!
+	- Krushchev response "The Wall"
+	- it encircled West Berlin
