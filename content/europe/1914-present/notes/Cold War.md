@@ -49,5 +49,19 @@ title: "Cold War"
 - Soviets waved fists... "containment" success
 - August 13, 1961 - November 9, 1989
 	- soviet problem = defection from Communist nations, 3,500,000 before 1961!
-	- Krushchev response "The Wall"
-	- it encircled West Berlin
+	- [[Khrushchev]] response "The Wall"
+	- it encircled West Berlin 
+### West Germany
+- The Federal Republic of Germany (FRG) :: West Germany 
+- Konrad Adenauer :: first chancellor
+- The CDU :: Christian Democratic Union
+- diplomatically allied with US
+- *Wirtschaftswunder*
+- Ludwig Erhard :: chancellor of Germany
+- "Nationalized industries", Common after WWII
+	1) The Beetle (functionalism)
+	2) Standard of living went up
+- consumer / market driven products.. "message" in ads = sexist
+### Consumerism
+- communist nations :: "planned economies" (top down decisions)
+- 
