@@ -62,6 +62,21 @@ title: "Cold War"
 	1) The Beetle (functionalism)
 	2) Standard of living went up
 - consumer / market driven products.. "message" in ads = sexist
+## Economy
 ### Consumerism
 - communist nations :: "planned economies" (top down decisions)
+- profound economic stagnation in Eastern Europe
+- Collectively weak through end of the Cold War (1991), slow recovery later
+### Soviet Planned Economies
+- 1930s - 1991 mainstay of Communist governments
+- "Five Year Plans" ... 13 of them!
+- Heavy industry at expense of consumer goods
+- Lack of access to medicine, food and clothing...
+- Soviets used to waiting in lines
+	- no economic incentive for people to work harder
+	- slow adaptation implementation of new technology
+	- no choices where to work or where to live
+### East Germany's Attempt
+- Trabant (plastic car)
+- plastic body with 500cc engine (large lawn mower)
 - 
