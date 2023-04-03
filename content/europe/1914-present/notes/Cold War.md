@@ -79,4 +79,31 @@ title: "Cold War"
 ### East Germany's Attempt
 - Trabant (plastic car)
 - plastic body with 500cc engine (large lawn mower)
-- 
+- produced by the government with a 10 year waitlist
+## Western Europe
+- developed <u>concurrently</u> with [[Marshall Plan]] after 1945
+- Funded by decades of <u>affluence</u> & Western European economic success
+- UK's Labour Party implemented 1st after WWII
+### Government Funded
+- healthcare, pensions
+- unemployment insurance, childcare benefits
+- incentives for having more children
+- free or low-cost higher education
+- downsides
+	- higher government expenditures
+	- higher tax rates / contributions
+	- spending dramatically increased from 1945 - 1980
+	- from 17% GDP to 50%, unsustainable after recessions in 70s & early 80s
+## Détente (1965-1979)
+- [[Cuban Missile Crisis]] under [[Khrushchev]] almost caused WWIII
+- effect -> more peaceful & relaxed relationship between Soviet and Americans
+- [[Leonid Brezhnev]] (r 1964-1982) visited DC for a week
+- [[Richard Nixon]] (r 1969 - 1974)
+- SALT I (1972) + Salt II (79) , nonproliferation treaty
+## Brezhnev
+- Washington DC week (72)
+- SALT 1 (72)
+- SALT 2 (79)
+- response to "Prague Spring"(68) -> violently put down revolt
+	- subsequent proclamation of [[Brezhnev Doctrine]]
+	  US boycotted 1980 Summer Olympics (held in Soviets)
