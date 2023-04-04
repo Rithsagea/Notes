@@ -106,4 +106,27 @@ title: "Cold War"
 - SALT 2 (79)
 - response to "Prague Spring"(68) -> violently put down revolt
 	- subsequent proclamation of [[Brezhnev Doctrine]]
-	  US boycotted 1980 Summer Olympics (held in Soviets)
+	- Détente ended abruptly, invaded Afghanistan (1979-1989)
+	- US boycotted 1980 Summer Olympics (held in Soviets)
+	- also boycotted 1984 Olympics
+### Prague Spring
+- Soviet Response :: violently put down Eastern European revolts, sent in the Red Army
+## Margaret Thatcher
+- PM Conservative Party (1979-1990)
+- 1st female PM in UK
+- inherited economic issues
+- based on European recessions in the late 1970s
+- curtailed government expenditures on social welfare programs
+- maintained basic programs such as universal healthcare
+- very industrialized areas = high unemployment rates
+- <u>hated her with a passion</u>
+### Foreign Policy
+- strong us bond with POTUS Reagan against Soviets
+- Anti-nukes (Chernobyl, 1986)
+## Soviets
+- "Revolving Door of the Politburo"
+- Yuri Andropov (r 1982-1984), 15 months
+- Konstantin Chernenko, already terminally-ill lung cancer, smoking
+### Mikhail Gorbachev
+- the last Russian leader for unit
+- Realistic & reform-minded
