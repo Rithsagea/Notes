@@ -130,3 +130,17 @@ title: "Cold War"
 ### Mikhail Gorbachev
 - the last Russian leader for unit
 - Realistic & reform-minded
+- came to power at <u>worst time</u> in European history
+- inherited a failing system
+- Eastern European "satellite nations" seized opportunity, declared independence
+- problems
+	1. Economic mess from [[Leonid Brezhnev]]'s reign (1964-1982)
+	- "Five Year Plans" not working
+	2. standard of living in SU, misery index
+	3. apathy and complacency
+	4. defense spending -> economic burden
+	5. nationalist "rumblings" in Eastern Europe in early 80s
+### Attempted Revival
+- glasnost :: openness :: free speech, political reforms
+- perestroika :: restructuring :: free enterprise, economic / government reforms
+- novoye mneniya :: new thinking :: communication with West and weapons reduction

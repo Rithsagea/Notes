@@ -23,4 +23,5 @@ title: "Chemistry"
 ## Acids and Bases
 - [[chemistry/Acids and Bases]]
 ## Fun
+- [[chemistry/Qualitative Analysis]]
 - [[chemistry/Ferrofluid]]
