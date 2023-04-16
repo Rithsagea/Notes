@@ -97,7 +97,7 @@ title: "Qualitative Analysis"
 | Test Tube | Before               | After                    | Notes   |
 | --------- | -------------------- | ------------------------ | ------- |
 | 2         | $Mn^{2+}$, $Co^{2+}$ | $MnO_4^-$, assorted ions | Dispose |
-- add <u>1 mL sulfuric and spatula of sodium bismuthate (until solid remains)</u> to <u>Tube 2</u>
+- add <u>1 mL nitric acid and spatula of sodium bismuthate (until solid remains)</u> to <u>Tube 2</u>
 - centrifuge, **if the solution appears purple, manganese is present**
 - dispose of contents in <u>Tube 2</u>
 ### 9. Confirmation of Cobalt
