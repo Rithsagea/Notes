@@ -26,8 +26,6 @@ title: "Qualitative Analysis"
 11. Sodium bismuthate, solid
 12. Potassium nitrite, solid
 13. Potassium hexacyanoferrate (II), 0.1M
-## Procedures
-
 ## Steps
 ### 1. Separation of Silver Group
 | Test Tube | Before   | After                                                                       | Notes |
