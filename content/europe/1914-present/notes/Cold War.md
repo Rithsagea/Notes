@@ -144,3 +144,26 @@ title: "Cold War"
 - glasnost :: openness :: free speech, political reforms
 - perestroika :: restructuring :: free enterprise, economic / government reforms
 - novoye mneniya :: new thinking :: communication with West and weapons reduction
+- Pizza Hut brought to the Soviet Union in 1987; westernization
+- Soviet Union dissolved 25 December 1991
+- McDonalds, people waited in line for hours to "taste America"...
+- disappointed with "strange food"
+## The Man Who Beat Communism
+- Ronald Reagan (r. 1981-1989)
+- Challenge the godless Russians
+- Paradoxically fostered respectful relationship with Gorbachev
+- [[INF Treaty]] (1987)
+- Teetering Soviet economy.
+- "Deliver a knockout blow"
+- Revive arms race that would ultimately cause S.U to collapse...\
+## Revolutions of 1989
+- "Puppet States" declared themselves independent
+- Soviet Union stopped supporting countries who's communist governments collapsed
+## Solidarity
+- Poland gains independence from <u>Solidarity movement</u> (1980 - 1988)
+1. Nationalist movement, demanded independence from Soviet bloc
+2. A labour union formed at the Gdansk shipyards
+	- 1st major "crack" in Soviet hegemony in "Eastern bloc"
+	- led by <u>Lech Walesa</u>, supported by <u>John Paul II</u> (r. 1978-2005)
+- Soviet Union not in situation to respond by 1988
+- "internal problems", economic collapse
