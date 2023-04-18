@@ -167,3 +167,28 @@ title: "Cold War"
 	- led by <u>Lech Walesa</u>, supported by <u>John Paul II</u> (r. 1978-2005)
 - Soviet Union not in situation to respond by 1988
 - "internal problems", economic collapse
+## November 9, 1989
+- the Berlin Wall fell
+- "Checkpoints" between East and West berlin no longer guarded
+- Symbolic "beginning of the end" of the Soviet Union
+## Velvet Revolution
+- December 1989 in Czechoslovakia
+- [[Vaclav Havel]] 1968 Protester, Dissident playwright
+- 1st President after Communism 
+- 1993 "The Velvet Divorce" -> Amicable Split
+- Czech Republic + Slovakia
+- Ethnicity and Economics
+- Communism had held together many nations with these issues
+## Romania
+- 1989
+- ridiculously repressive communist system
+- Nicolae & Elena Ceausescu (r. 1965-1989)
+- 25 December 1989 (VHS recording exists of them being executed)
+## Soviet Union Dissolved (1991)
+- Collapsed unceremoniously ... unaccounted nukes?
+- Self determination 15 new countries
+- Russian Federation (1991 - Now)
+## Russian Federation
+- Boris Yeltsin
+- (1991 - 1999)
+- Overwhelmed by transition from 50+ years of communism & planned economies
