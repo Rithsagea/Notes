@@ -192,3 +192,38 @@ title: "Cold War"
 - Boris Yeltsin
 - (1991 - 1999)
 - Overwhelmed by transition from 50+ years of communism & planned economies
+- Lost election in 1999, then [[Vladimir Putin]] won
+## Putin
+- 1999-current
+- Background as KGB member
+- "President" of Russian Federation ... 120% voters
+- Economic triumph, bankruptcy to surplus
+- Siberian resources: oil and natural gas
+- "Stalin-like" leader
+- Spring 2014: Crimean annexation / invasion; "referendum" held
+- Ukrainian War (2022-?)
+## Chechnya
+- Independence from the Russian Federation
+- A "modern" separatist movement
+- 1991, 15 nations declared independence
+- Ukraine, Belarus, etc.
+- Chechnya wanted independence (largely Muslin in Caucasus)
+- Russia wanted to retain it based on <u>oil reserves</u>
+- Wars between 1994-2009
+- 2009 - now:
+- Putin "involved" in its government
+- appointed its presidents
+- "Republic" within Russian federation
+## Yugoslavia
+- Another separatist movement
+- Communism "bonded" nations with ethnic heterogeneity during Cold War
+- <u>after</u> communism... separatist movements... sometimes violent!
+## Basque Conflict (1959-2011)
+- Scotland and Catalonia also had separatist movements
+## "The Demographic Transition"
+- 20th and 21st Century
+1. Lower death rate
+2. Lower birth rate
+3. Higher life expectancy
+4. Population plateau in Europe
+	- *Gastarbeiter* in Western Europe after WWII (immigration)
