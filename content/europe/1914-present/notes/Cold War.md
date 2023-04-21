@@ -227,3 +227,16 @@ title: "Cold War"
 3. Higher life expectancy
 4. Population plateau in Europe
 	- *Gastarbeiter* in Western Europe after WWII (immigration)
+## Population Pyramids
+ 1) Percentage of males vs females
+ 2) % of age (birth year)
+### Variables
+- Birth rate (fertility)
+- Death rate (mortality)
+- healthcare -> rapid growth
+- contraceptives -> slow growth + shrinking
+- higher education
+- immigration
+- epidemics`
+### Aging & Economics
+- Old people = economic burden
